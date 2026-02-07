@@ -1,29 +1,52 @@
 # backend.py
 import os
 import json
-from google import genai  # 使用最新的 SDK
+import re
+from google import genai
 from dotenv import load_dotenv
 
 load_dotenv()
-
-# 初始化客戶端
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 def get_travel_plan(destination: str, days: int, budget: int):
-    # 這裡加入真正的 AI 呼叫
-    prompt = f"規劃 {destination} 的 {days} 天旅遊，預算 {budget}。請只回傳 JSON。"
-    
+    # 1. 讀取飯店資料 JSON
     try:
-        # 真正送出請求
+        with open('trip_hotels_taiwan_all_counties.json', 'r', encoding='utf-8') as f:
+            hotel_data = json.load(f)
+    except FileNotFoundError:
+        return {"error": "找不到飯店資料庫檔案"}
+
+    # 2. 構建 Prompt：嚴格要求模型僅使用 JSON 內的資料
+    # 我們將整個 JSON 內容（或篩選後的縣市內容）餵給模型
+    prompt = f"""
+    你是一位專業旅遊規劃師。請根據以下提供的飯店資料 JSON，為前往「{destination}」的旅客規劃行程。
+    
+    【限制條件】：
+    1. 嚴禁使用網路搜尋，只能使用提供的 JSON 內容。
+    2. 請在回傳的 JSON 中，特別列出 10 筆建議飯店（若該縣市資料不足，請從鄰近縣市挑選並說明）。
+    3. 行程規劃需符合預算 {budget} 元。
+    
+    【提供資料】：
+    {json.dumps(hotel_data, ensure_ascii=False)}
+
+    請回傳純 JSON 格式：
+    {{
+      "target_style": "風格描述",
+      "recommended_hotels": ["飯店 A (價格)", "飯店 B (價格)", ...], 
+      "itinerary": [...]
+    }}
+    """
+
+    try:
         response = client.models.generate_content(
-    model="gemini-2.0-flash",  
-    contents=prompt
-)
+            model="gemini-2.0-flash",
+            contents=prompt
+        )
         
-        # 假設 AI 回傳的是純文字 JSON
-        return json.loads(response.text)
+        # 清洗與解析 JSON
+        raw_text = response.text.strip().replace('```json', '').replace('```', '')
+        return json.loads(raw_text)
         
     except Exception as e:
-        # TDD 精神：如果沒接 API，這裡一定會噴錯，讓測試變成紅燈
-        print(f"API 呼叫失敗: {e}")
-        raise e
+        print(f"處理失敗: {e}")
+        return {"error": str(e)}
