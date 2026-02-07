@@ -1,0 +1,1 @@
+# SCIST-x-SCAICT-Camp-2026-6-team
