@@ -1,0 +1,2031 @@
+{
+  "target_total": 200,
+  "actual_total": 200,
+  "unique_counties_included": [
+    "南投縣",
+    "嘉義市",
+    "嘉義縣",
+    "基隆市",
+    "宜蘭縣",
+    "屏東縣",
+    "彰化縣",
+    "新北市",
+    "新竹市",
+    "新竹縣",
+    "桃園市",
+    "澎湖縣",
+    "臺中市",
+    "臺北市",
+    "臺南市",
+    "臺東縣",
+    "花蓮縣",
+    "苗栗縣",
+    "連江縣",
+    "金門縣",
+    "雲林縣",
+    "高雄市"
+  ],
+  "items": [
+    {
+      "hotel_id": 121926360,
+      "name": "享住新大華館",
+      "price_twd": 2136,
+      "price_text": "TWD 2,136",
+      "rating": 8.8,
+      "address": "基隆, 仁愛區, 仁愛區精一路15號",
+      "county": "基隆市",
+      "city_id": 7810
+    },
+    {
+      "hotel_id": 7007885,
+      "name": "熊旅溫泉飯店",
+      "price_twd": 2529,
+      "price_text": "TWD 2,529",
+      "rating": 9.1,
+      "address": "237, 新北, 三峽區, 大德路213號",
+      "county": "新北市",
+      "city_id": 7662
+    },
+    {
+      "hotel_id": 701066,
+      "name": "茹曦酒店 ILLUME TAIPEI",
+      "price_twd": 6005,
+      "price_text": "TWD 6,005",
+      "rating": 8.7,
+      "address": "105, 台北, 松山區, 敦化北路100號",
+      "county": "臺北市",
+      "city_id": 617
+    },
+    {
+      "hotel_id": 1011727,
+      "name": "福容大飯店桃園",
+      "price_twd": 3303,
+      "price_text": "TWD 3,303",
+      "rating": 8.7,
+      "address": "桃園, 桃園區, 大興西路一段200號",
+      "county": "桃園市",
+      "city_id": 7570
+    },
+    {
+      "hotel_id": 1886393,
+      "name": "新舍商旅新竹館",
+      "price_twd": 3023,
+      "price_text": "TWD 3,023",
+      "rating": 8.2,
+      "address": "新竹, 北區, 西大路658號",
+      "county": "新竹市",
+      "city_id": 3845
+    },
+    {
+      "hotel_id": 17541677,
+      "name": "新竹安捷國際酒店",
+      "price_twd": 6800,
+      "price_text": "TWD 6,800",
+      "rating": 9.2,
+      "address": "新竹縣, 竹北市, 復興三路二段168號14F",
+      "county": "新竹縣",
+      "city_id": 669328
+    },
+    {
+      "hotel_id": 19829948,
+      "name": "泉銘行館",
+      "price_twd": 4417,
+      "price_text": "TWD 4,417",
+      "rating": 8.7,
+      "address": "36443, 苗栗, 大湖鄉, 富興村7鄰八寮灣33-31號",
+      "county": "苗栗縣",
+      "city_id": 7809
+    },
+    {
+      "hotel_id": 1004901,
+      "name": "豪爵大飯店台中館",
+      "price_twd": 1318,
+      "price_text": "TWD 1,318",
+      "rating": 8.3,
+      "address": "台中, 西區, 五權路1-23號",
+      "county": "臺中市",
+      "city_id": 3849
+    },
+    {
+      "hotel_id": 6338167,
+      "name": "承攜行旅彰化中正館",
+      "price_twd": 2930,
+      "price_text": "TWD 2,930",
+      "rating": 8.0,
+      "address": "50048, 彰化, 彰化市, 中正路二段668號",
+      "county": "彰化縣",
+      "city_id": 7811
+    },
+    {
+      "hotel_id": 982557,
+      "name": "南投日月潭瑞居渡假飯店",
+      "price_twd": 3528,
+      "price_text": "TWD 3,528",
+      "rating": 8.4,
+      "address": "南投, 魚池鄉, 大雁村大雁巷47-9號",
+      "county": "南投縣",
+      "city_id": 7524
+    },
+    {
+      "hotel_id": 3921074,
+      "name": "三好國際酒店",
+      "price_twd": 5080,
+      "price_text": "TWD 5,080",
+      "rating": 8.9,
+      "address": "64059, 雲林, 斗六市, 斗六五路35號",
+      "county": "雲林縣",
+      "city_id": 7523
+    },
+    {
+      "hotel_id": 4356631,
+      "name": "嘉義樂客商旅",
+      "price_twd": 2351,
+      "price_text": "TWD 2,351",
+      "rating": 8.7,
+      "address": "600, 嘉義市, 東區, 林森西路155號",
+      "county": "嘉義市",
+      "city_id": 5152
+    },
+    {
+      "hotel_id": 2645652,
+      "name": "F-商旅（嘉義館）",
+      "price_twd": 3920,
+      "price_text": "TWD 3,920",
+      "rating": 8.5,
+      "address": "602, 嘉義縣, 番路鄉, 下坑村8鄰下坑42-3號",
+      "county": "嘉義縣",
+      "city_id": 650358
+    },
+    {
+      "hotel_id": 126948884,
+      "name": "唯爾文旅 - 台南 New Velle Voyage Hotel",
+      "price_twd": 2200,
+      "price_text": "TWD 2,200",
+      "rating": 8.6,
+      "address": "台南, 中西區, 民生路二段169号",
+      "county": "臺南市",
+      "city_id": 3847
+    },
+    {
+      "hotel_id": 6485010,
+      "name": "德立莊（高雄博愛館）",
+      "price_twd": 7000,
+      "price_text": "TWD 7,000",
+      "rating": 8.8,
+      "address": "高雄, 三民區, 博愛一路338號",
+      "county": "高雄市",
+      "city_id": 720
+    },
+    {
+      "hotel_id": 6481285,
+      "name": "屏東沐林會館",
+      "price_twd": 10,
+      "price_text": "TWD 10",
+      "rating": 9.2,
+      "address": "屏東, 恆春, 恆公路230號",
+      "county": "屏東縣",
+      "city_id": 5589
+    },
+    {
+      "hotel_id": 9882363,
+      "name": "礁溪麒麟飯店",
+      "price_twd": 9369,
+      "price_text": "TWD 9,369",
+      "rating": 8.9,
+      "address": "26243, 宜蘭, 礁溪鄉, 礁溪路五段116號",
+      "county": "宜蘭縣",
+      "city_id": 7614
+    },
+    {
+      "hotel_id": 1006091,
+      "name": "福容大飯店花蓮",
+      "price_twd": 2882,
+      "price_text": "TWD 2,882",
+      "rating": 8.9,
+      "address": "花蓮, 花蓮市, 民生路51號",
+      "county": "花蓮縣",
+      "city_id": 6954
+    },
+    {
+      "hotel_id": 1009352,
+      "name": "鮪魚家族飯店-台東館",
+      "price_twd": 2222,
+      "price_text": "TWD 2,222",
+      "rating": 9.2,
+      "address": "台東, 台東市, 中華路一段537號",
+      "county": "臺東縣",
+      "city_id": 3848
+    },
+    {
+      "hotel_id": 19830923,
+      "name": "春上村墅B&B三多館",
+      "price_twd": 900,
+      "price_text": "TWD 900",
+      "rating": 8.5,
+      "address": "880, 澎湖, 馬公市, 三多路99號2樓",
+      "county": "澎湖縣",
+      "city_id": 7805
+    },
+    {
+      "hotel_id": 4960954,
+      "name": "金門青年活動中心",
+      "price_twd": 1650,
+      "price_text": "TWD 1,650",
+      "rating": 8.5,
+      "address": "金門, 金城鎮, 環島北路一段1號",
+      "county": "金門縣",
+      "city_id": 7203
+    },
+    {
+      "hotel_id": 52971205,
+      "name": "馬港驛站",
+      "price_twd": 1800,
+      "price_text": "TWD 1,800",
+      "rating": 8.9,
+      "address": "209, 馬祖, 南竿鄉, 馬祖村 5 鄰 4-3 號",
+      "county": "連江縣",
+      "city_id": 7808
+    },
+    {
+      "hotel_id": 5889760,
+      "name": "享住旅店-基隆館",
+      "price_twd": 2373,
+      "price_text": "TWD 2,373",
+      "rating": 9.0,
+      "address": "基隆, 中正區, 信一路156號",
+      "county": "基隆市",
+      "city_id": 7810
+    },
+    {
+      "hotel_id": 2375189,
+      "name": "基隆柯達大飯店",
+      "price_twd": 3900,
+      "price_text": "TWD 3,900",
+      "rating": 8.4,
+      "address": "基隆, 中正區, 義一路7號",
+      "county": "基隆市",
+      "city_id": 7810
+    },
+    {
+      "hotel_id": 1719286,
+      "name": "基隆金華大飯店",
+      "price_twd": 2500,
+      "price_text": "TWD 2,500",
+      "rating": 8.1,
+      "address": "基隆, 仁愛區, 成功一路9號",
+      "county": "基隆市",
+      "city_id": 7810
+    },
+    {
+      "hotel_id": 1848064,
+      "name": "基隆香草藝術旅站",
+      "price_twd": 1899,
+      "price_text": "TWD 1,899",
+      "rating": 8.0,
+      "address": "基隆, 信義區, 義三路6號",
+      "county": "基隆市",
+      "city_id": 7810
+    },
+    {
+      "hotel_id": 122977439,
+      "name": "綠文旅社",
+      "price_twd": 5505,
+      "price_text": "TWD 5,505",
+      "rating": 9.4,
+      "address": "基隆, 仁愛區, 仁三路28號",
+      "county": "基隆市",
+      "city_id": 7810
+    },
+    {
+      "hotel_id": 1243173,
+      "name": "基隆東岸之星精品旅店",
+      "price_twd": 2097,
+      "price_text": "TWD 2,097",
+      "rating": 8.7,
+      "address": "基隆, 中正區, 信三路20號",
+      "county": "基隆市",
+      "city_id": 7810
+    },
+    {
+      "hotel_id": 19829391,
+      "name": "永豐旅店",
+      "price_twd": 1596,
+      "price_text": "TWD 1,596",
+      "rating": 8.2,
+      "address": "200, 基隆, 仁愛區, 愛三路49巷14號2樓",
+      "county": "基隆市",
+      "city_id": 7810
+    },
+    {
+      "hotel_id": 1585209,
+      "name": "基隆華國大飯店",
+      "price_twd": 3025,
+      "price_text": "TWD 3,025",
+      "rating": 8.1,
+      "address": "基隆, 仁愛區, 愛三路49巷18號",
+      "county": "基隆市",
+      "city_id": 7810
+    },
+    {
+      "hotel_id": 23157173,
+      "name": "集好旅店",
+      "price_twd": 4848,
+      "price_text": "TWD 4,848",
+      "rating": 9.2,
+      "address": "基隆, 仁愛區, 仁二路215號",
+      "county": "基隆市",
+      "city_id": 7810
+    },
+    {
+      "hotel_id": 97074863,
+      "name": "汐止福泰大飯店",
+      "price_twd": 3684,
+      "price_text": "TWD 3,684",
+      "rating": 9.1,
+      "address": "221, 新北, 汐止區, 大同路一段128號",
+      "county": "新北市",
+      "city_id": 7662
+    },
+    {
+      "hotel_id": 1009307,
+      "name": "新北淡水福格大飯店",
+      "price_twd": 2867,
+      "price_text": "TWD 2,867",
+      "rating": 8.2,
+      "address": "251, 新北, 淡水, 學府路89號",
+      "county": "新北市",
+      "city_id": 7662
+    },
+    {
+      "hotel_id": 105245629,
+      "name": "淡水島宇居飯店",
+      "price_twd": 2471,
+      "price_text": "TWD 2,471",
+      "rating": 8.5,
+      "address": "新北, 淡水, 中正東路一段3巷1號",
+      "county": "新北市",
+      "city_id": 7662
+    },
+    {
+      "hotel_id": 26618164,
+      "name": "君迪商旅",
+      "price_twd": 3500,
+      "price_text": "TWD 3,500",
+      "rating": 8.6,
+      "address": "新北, 中和區, 和城路一段232號",
+      "county": "新北市",
+      "city_id": 7662
+    },
+    {
+      "hotel_id": 21928385,
+      "name": "美麗殿商旅",
+      "price_twd": 6930,
+      "price_text": "TWD 6,930",
+      "rating": 8.7,
+      "address": "新北, 板橋區, 府中路67號2樓",
+      "county": "新北市",
+      "city_id": 7662
+    },
+    {
+      "hotel_id": 2203821,
+      "name": "新北馥俐商旅II館",
+      "price_twd": 2380,
+      "price_text": "TWD 2,380",
+      "rating": 7.8,
+      "address": "22055, 新北, 板橋區, 東門街10號",
+      "county": "新北市",
+      "city_id": 7662
+    },
+    {
+      "hotel_id": 5911399,
+      "name": "台北富信大飯店",
+      "price_twd": 2867,
+      "price_text": "TWD 2,867",
+      "rating": 8.6,
+      "address": "221, 新北, 汐止區, 大同路一段152號",
+      "county": "新北市",
+      "city_id": 7662
+    },
+    {
+      "hotel_id": 985148,
+      "name": "福容大飯店（台北二館）",
+      "price_twd": 3100,
+      "price_text": "TWD 3,100",
+      "rating": 8.4,
+      "address": "新北, 深坑區, 北深路三段236號",
+      "county": "新北市",
+      "city_id": 7662
+    },
+    {
+      "hotel_id": 878687,
+      "name": "瓏山林台北中和飯店",
+      "price_twd": 2948,
+      "price_text": "TWD 2,948",
+      "rating": 8.9,
+      "address": "新北, 中和區, 中正路631號",
+      "county": "新北市",
+      "city_id": 7662
+    },
+    {
+      "hotel_id": 1284026,
+      "name": "丹迪旅店-大安森林公園店",
+      "price_twd": 7200,
+      "price_text": "TWD 7,200",
+      "rating": 9.3,
+      "address": "106, 台北, 大安區, 信義路三段33號",
+      "county": "臺北市",
+      "city_id": 617
+    },
+    {
+      "hotel_id": 701812,
+      "name": "城市商旅（台北南東館）",
+      "price_twd": 5413,
+      "price_text": "TWD 5,413",
+      "rating": 8.6,
+      "address": "10569, 台北, 松山區, 南京東路5段411號",
+      "county": "臺北市",
+      "city_id": 617
+    },
+    {
+      "hotel_id": 1212365,
+      "name": "首都大飯店松山館",
+      "price_twd": 4370,
+      "price_text": "TWD 4,370",
+      "rating": 8.4,
+      "address": "105, 台北, 松山區, 八德路四段658號",
+      "county": "臺北市",
+      "city_id": 617
+    },
+    {
+      "hotel_id": 701355,
+      "name": "台北怡亨飯店",
+      "price_twd": 6553,
+      "price_text": "TWD 6,553",
+      "rating": 8.3,
+      "address": "106, 台北, 大安區, 敦化南路一段370號",
+      "county": "臺北市",
+      "city_id": 617
+    },
+    {
+      "hotel_id": 700897,
+      "name": "台北福華大飯店",
+      "price_twd": 6650,
+      "price_text": "TWD 6,650",
+      "rating": 8.9,
+      "address": "10657, 台北, 大安區, 仁愛路三段160號",
+      "county": "臺北市",
+      "city_id": 617
+    },
+    {
+      "hotel_id": 80624975,
+      "name": "雀客藏居台北南港",
+      "price_twd": 2928,
+      "price_text": "TWD 2,928",
+      "rating": 8.1,
+      "address": "115, 台北, 南港區, 重陽路59號",
+      "county": "臺北市",
+      "city_id": 617
+    },
+    {
+      "hotel_id": 1829145,
+      "name": "德立莊酒店",
+      "price_twd": 6391,
+      "price_text": "TWD 6,391",
+      "rating": 8.1,
+      "address": "108, 台北, 中正區, 秀山街4號",
+      "county": "臺北市",
+      "city_id": 617
+    },
+    {
+      "hotel_id": 67237892,
+      "name": "天閣酒店台北士林館",
+      "price_twd": 14000,
+      "price_text": "TWD 14,000",
+      "rating": 8.8,
+      "address": "111013, 台北, 士林區, 基河路16-8號",
+      "county": "臺北市",
+      "city_id": 617
+    },
+    {
+      "hotel_id": 608222,
+      "name": "城市商旅（台北南西館）",
+      "price_twd": 5762,
+      "price_text": "TWD 5,762",
+      "rating": 8.8,
+      "address": "10349, 台北, 大同區, 南京西路169號",
+      "county": "臺北市",
+      "city_id": 617
+    },
+    {
+      "hotel_id": 132201693,
+      "name": "丰居中壢",
+      "price_twd": 4475,
+      "price_text": "TWD 4,475",
+      "rating": 8.8,
+      "address": "320, 桃園, 中壢區, 新興路194巷5號",
+      "county": "桃園市",
+      "city_id": 7570
+    },
+    {
+      "hotel_id": 982190,
+      "name": "桃園尊爵大飯店",
+      "price_twd": 4400,
+      "price_text": "TWD 4,400",
+      "rating": 8.4,
+      "address": "330008, 桃園, 桃園區, 莊敬路一段300號",
+      "county": "桃園市",
+      "city_id": 7570
+    },
+    {
+      "hotel_id": 19831982,
+      "name": "六星旅館桃園館",
+      "price_twd": 4415,
+      "price_text": "TWD 4,415",
+      "rating": 8.7,
+      "address": "330, 桃園, 桃園區, 桃園區經國路721號",
+      "county": "桃園市",
+      "city_id": 7570
+    },
+    {
+      "hotel_id": 1071287,
+      "name": "薇緹文旅",
+      "price_twd": 2909,
+      "price_text": "TWD 2,909",
+      "rating": 8.0,
+      "address": "330, 桃園, 桃園區, 中正路703號",
+      "county": "桃園市",
+      "city_id": 7570
+    },
+    {
+      "hotel_id": 45833283,
+      "name": "城市商旅桃園車站館",
+      "price_twd": 4769,
+      "price_text": "TWD 4,769",
+      "rating": 8.5,
+      "address": "33041, 桃園, 桃園區, 中正路 60 號 6-7 樓",
+      "county": "桃園市",
+      "city_id": 7570
+    },
+    {
+      "hotel_id": 45835133,
+      "name": "嘉仕特飯店",
+      "price_twd": 2580,
+      "price_text": "TWD 2,580",
+      "rating": 8.1,
+      "address": "330, 桃園, 桃園區, 中山路 203 號, 桃園區",
+      "county": "桃園市",
+      "city_id": 7570
+    },
+    {
+      "hotel_id": 4614105,
+      "name": "福容大飯店桃園機場捷運A8",
+      "price_twd": 5630,
+      "price_text": "TWD 5,630",
+      "rating": 9.2,
+      "address": "33380, 桃園, 龜山區, 復興一路2號",
+      "county": "桃園市",
+      "city_id": 7570
+    },
+    {
+      "hotel_id": 5227173,
+      "name": "綺樂文旅桃園館",
+      "price_twd": 2508,
+      "price_text": "TWD 2,508",
+      "rating": 8.7,
+      "address": "桃園, 桃園區, 復興路95號",
+      "county": "桃園市",
+      "city_id": 7570
+    },
+    {
+      "hotel_id": 1431744,
+      "name": "桃園富立登國際大飯店",
+      "price_twd": 3723,
+      "price_text": "TWD 3,723",
+      "rating": 9.1,
+      "address": "33861, 桃園, 蘆竹區, 長榮路55號",
+      "county": "桃園市",
+      "city_id": 7570
+    },
+    {
+      "hotel_id": 95165174,
+      "name": "承攜行旅新竹中央館",
+      "price_twd": 4731,
+      "price_text": "TWD 4,731",
+      "rating": 8.3,
+      "address": "新竹, 東區, 中央路106號1樓及6-15樓",
+      "county": "新竹市",
+      "city_id": 3845
+    },
+    {
+      "hotel_id": 1255771,
+      "name": "新竹迎曦大飯店",
+      "price_twd": 4907,
+      "price_text": "TWD 4,907",
+      "rating": 9.1,
+      "address": "30042, 新竹, 東區, 文化街10號",
+      "county": "新竹市",
+      "city_id": 3845
+    },
+    {
+      "hotel_id": 2972239,
+      "name": "悅豪大飯店（新竹館）",
+      "price_twd": 2488,
+      "price_text": "TWD 2,488",
+      "rating": 8.7,
+      "address": "300, 新竹, 東區, 復興路22號",
+      "county": "新竹市",
+      "city_id": 3845
+    },
+    {
+      "hotel_id": 1008223,
+      "name": "新竹卡爾登飯店-北大館",
+      "price_twd": 3483,
+      "price_text": "TWD 3,483",
+      "rating": 8.6,
+      "address": "300, 新竹, 北區, 北大路225號",
+      "county": "新竹市",
+      "city_id": 3845
+    },
+    {
+      "hotel_id": 1255818,
+      "name": "新竹煙波大飯店-都會一館",
+      "price_twd": 4924,
+      "price_text": "TWD 4,924",
+      "rating": 9.1,
+      "address": "新竹, 東區, 民生路177號",
+      "county": "新竹市",
+      "city_id": 3845
+    },
+    {
+      "hotel_id": 1999946,
+      "name": "心園商務旅館",
+      "price_twd": 1700,
+      "price_text": "TWD 1,700",
+      "rating": 8.1,
+      "address": "新竹, 東區, 民權路223號",
+      "county": "新竹市",
+      "city_id": 3845
+    },
+    {
+      "hotel_id": 110857971,
+      "name": "大道城飯店",
+      "price_twd": 2600,
+      "price_text": "TWD 2,600",
+      "rating": 8.6,
+      "address": "300076, 新竹, 北區, 北區北大路358號",
+      "county": "新竹市",
+      "city_id": 3845
+    },
+    {
+      "hotel_id": 1011736,
+      "name": "新竹福華大飯店",
+      "price_twd": 5600,
+      "price_text": "TWD 5,600",
+      "rating": 9.2,
+      "address": "30051, 新竹, 北區, 中正路178號",
+      "county": "新竹市",
+      "city_id": 3845
+    },
+    {
+      "hotel_id": 1193624,
+      "name": "日月光國際大飯店-新竹館",
+      "price_twd": 6156,
+      "price_text": "TWD 6,156",
+      "rating": 8.1,
+      "address": "300, 新竹, 東區, 中央路355巷16號",
+      "county": "新竹市",
+      "city_id": 3845
+    },
+    {
+      "hotel_id": 2156415,
+      "name": "雲端商務旅館-新竹館",
+      "price_twd": 2953,
+      "price_text": "TWD 2,953",
+      "rating": 8.9,
+      "address": "30252, 新竹縣, 竹北市, 新泰路102號",
+      "county": "新竹縣",
+      "city_id": 669328
+    },
+    {
+      "hotel_id": 1197372,
+      "name": "新竹豐邑喜來登大飯店",
+      "price_twd": 88,
+      "price_text": "TWD 88",
+      "rating": 9.1,
+      "address": "302, 新竹縣, 竹北市, 光明六路東一段265號",
+      "county": "新竹縣",
+      "city_id": 669328
+    },
+    {
+      "hotel_id": 1016817,
+      "name": "關西六福莊生態度假旅館",
+      "price_twd": 17050,
+      "price_text": "TWD 17,050",
+      "rating": 8.6,
+      "address": "新竹縣, 關西鎮, 仁安裡拱子溝60號",
+      "county": "新竹縣",
+      "city_id": 669328
+    },
+    {
+      "hotel_id": 1431510,
+      "name": "享豪大飯店",
+      "price_twd": 2873,
+      "price_text": "TWD 2,873",
+      "rating": 8.8,
+      "address": "30242, 新竹縣, 竹北市, 信義街7號",
+      "county": "新竹縣",
+      "city_id": 669328
+    },
+    {
+      "hotel_id": 1098575,
+      "name": "新竹關西-統一渡假村馬武督渡假會議中心",
+      "price_twd": 10020,
+      "price_text": "TWD 10,020",
+      "rating": 7.6,
+      "address": "新竹縣, 關西鎮, 關西鎮金山裡34號",
+      "county": "新竹縣",
+      "city_id": 669328
+    },
+    {
+      "hotel_id": 6064605,
+      "name": "風雅月築-淇岄淇邑莊園",
+      "price_twd": 4428,
+      "price_text": "TWD 4,428",
+      "rating": 10.0,
+      "address": "新竹縣, 五峰鄉, 大隘村14鄰278之15號",
+      "county": "新竹縣",
+      "city_id": 669328
+    },
+    {
+      "hotel_id": 3462291,
+      "name": "苗栗初夏汽車旅館",
+      "price_twd": 3480,
+      "price_text": "TWD 3,480",
+      "rating": 8.6,
+      "address": "363, 苗栗, 公館鄉, 南村通明街182巷9號",
+      "county": "苗栗縣",
+      "city_id": 7809
+    },
+    {
+      "hotel_id": 50594953,
+      "name": "翡翠如意民宿",
+      "price_twd": 2200,
+      "price_text": "TWD 2,200",
+      "rating": 9.4,
+      "address": "35000, 苗栗, 竹南鎮, No 129, Dapu Street, Zhunan Township",
+      "county": "苗栗縣",
+      "city_id": 7809
+    },
+    {
+      "hotel_id": 68010531,
+      "name": "水漾月明度假文旅",
+      "price_twd": 8951,
+      "price_text": "TWD 8,951",
+      "rating": 8.2,
+      "address": "362, 苗栗, 頭屋鄉, 明德路54號",
+      "county": "苗栗縣",
+      "city_id": 7809
+    },
+    {
+      "hotel_id": 23695327,
+      "name": "翡翠金鑽民宿",
+      "price_twd": 21,
+      "price_text": "TWD 21",
+      "rating": 8.9,
+      "address": "350, 苗栗, 竹南鎮, 大埔里大埔街131號",
+      "county": "苗栗縣",
+      "city_id": 7809
+    },
+    {
+      "hotel_id": 45833184,
+      "name": "毓琇圖書山莊",
+      "price_twd": 2487,
+      "price_text": "TWD 2,487",
+      "rating": 8.1,
+      "address": "353, 苗栗, 南庄鄉, 南江村裡金館 35 號, 南莊鄉",
+      "county": "苗栗縣",
+      "city_id": 7809
+    },
+    {
+      "hotel_id": 72095698,
+      "name": "亞曼尼SPA精品汽車旅館",
+      "price_twd": 3800,
+      "price_text": "TWD 3,800",
+      "rating": 8.4,
+      "address": "351, 苗栗, 頭份市, 公園六街96號",
+      "county": "苗栗縣",
+      "city_id": 7809
+    },
+    {
+      "hotel_id": 19829666,
+      "name": "春谷養鱒農場",
+      "price_twd": 2211,
+      "price_text": "TWD 2,211",
+      "rating": 8.5,
+      "address": "353, 苗栗, 小東河25號",
+      "county": "苗栗縣",
+      "city_id": 7809
+    },
+    {
+      "hotel_id": 105328735,
+      "name": "愛麗舍精品旅館",
+      "price_twd": 2429,
+      "price_text": "TWD 2,429",
+      "rating": 9.6,
+      "address": "351, 苗栗, 頭份市, 中華路1489號",
+      "county": "苗栗縣",
+      "city_id": 7809
+    },
+    {
+      "hotel_id": 114384805,
+      "name": "台中沫秋立柳川行旅",
+      "price_twd": 2400,
+      "price_text": "TWD 2,400",
+      "rating": 8.7,
+      "address": "台中, 中區, 柳川西路3段22號",
+      "county": "臺中市",
+      "city_id": 3849
+    },
+    {
+      "hotel_id": 45833993,
+      "name": "一中宿喜",
+      "price_twd": 1117,
+      "price_text": "TWD 1,117",
+      "rating": 8.8,
+      "address": "400, 台中, 三民路 2 段 149 巷 8-1 號 3 樓, 中區",
+      "county": "臺中市",
+      "city_id": 3849
+    },
+    {
+      "hotel_id": 54109344,
+      "name": "台中逢甲金瑞文旅",
+      "price_twd": 4500,
+      "price_text": "TWD 4,500",
+      "rating": 8.6,
+      "address": "台中, 西屯區, 福星路247號",
+      "county": "臺中市",
+      "city_id": 3849
+    },
+    {
+      "hotel_id": 59888014,
+      "name": "嬉行旅",
+      "price_twd": null,
+      "price_text": null,
+      "rating": 9.0,
+      "address": "403, 台中, 西區, 民權路225巷8號",
+      "county": "臺中市",
+      "city_id": 3849
+    },
+    {
+      "hotel_id": 801113,
+      "name": "台中永豐棧酒店",
+      "price_twd": 7032,
+      "price_text": "TWD 7,032",
+      "rating": 8.1,
+      "address": "407, 台中, 西屯區, 西屯區台灣大道二段689號",
+      "county": "臺中市",
+      "city_id": 3849
+    },
+    {
+      "hotel_id": 128056103,
+      "name": "長弘時尚旅店-台中文心館",
+      "price_twd": 2700,
+      "price_text": "TWD 2,700",
+      "rating": 9.0,
+      "address": "台中, 西屯區, 文心路三段362號",
+      "county": "臺中市",
+      "city_id": 3849
+    },
+    {
+      "hotel_id": 1196722,
+      "name": "台中雙星大飯店",
+      "price_twd": 1499,
+      "price_text": "TWD 1,499",
+      "rating": 8.6,
+      "address": "40144, 台中, 東區, 復興路4段158號",
+      "county": "臺中市",
+      "city_id": 3849
+    },
+    {
+      "hotel_id": 1014582,
+      "name": "臺中西悠飯店",
+      "price_twd": 2460,
+      "price_text": "TWD 2,460",
+      "rating": 8.2,
+      "address": "404, 台中, 北區, 進化北路431號",
+      "county": "臺中市",
+      "city_id": 3849
+    },
+    {
+      "hotel_id": 16159453,
+      "name": "台中莿桐花文創微旅",
+      "price_twd": 2902,
+      "price_text": "TWD 2,902",
+      "rating": 8.3,
+      "address": "台中, 中區, 台灣大道一段141巷11號",
+      "county": "臺中市",
+      "city_id": 3849
+    },
+    {
+      "hotel_id": 129211594,
+      "name": "華宿彰濱快捷商旅",
+      "price_twd": 2900,
+      "price_text": "TWD 2,900",
+      "rating": 9.0,
+      "address": "彰化, 線西鄉, 彰化縣線西鄉慶濱路6號",
+      "county": "彰化縣",
+      "city_id": 7811
+    },
+    {
+      "hotel_id": 121952720,
+      "name": "南華大旅社Ｘ鴉埠客棧",
+      "price_twd": 2000,
+      "price_text": "TWD 2,000",
+      "rating": 8.8,
+      "address": "514, 彰化, 溪湖鎮, 溪湖鎮彰水路三段122號",
+      "county": "彰化縣",
+      "city_id": 7811
+    },
+    {
+      "hotel_id": 85476685,
+      "name": "以安二館",
+      "price_twd": 9,
+      "price_text": "TWD 9",
+      "rating": 9.6,
+      "address": "彰化, 鹿港鎮, 中正路523巷29號",
+      "county": "彰化縣",
+      "city_id": 7811
+    },
+    {
+      "hotel_id": 2892561,
+      "name": "康橋商旅－彰化員林館",
+      "price_twd": 4700,
+      "price_text": "TWD 4,700",
+      "rating": 9.2,
+      "address": "510, 彰化, 員林市, 靜修路10號",
+      "county": "彰化縣",
+      "city_id": 7811
+    },
+    {
+      "hotel_id": 120726521,
+      "name": "亞太鹿港渡假村",
+      "price_twd": 4599,
+      "price_text": "TWD 4,599",
+      "rating": 8.3,
+      "address": "505, 彰化, 鹿港鎮, 中正路588號",
+      "county": "彰化縣",
+      "city_id": 7811
+    },
+    {
+      "hotel_id": 1585275,
+      "name": "雅迪商務旅店",
+      "price_twd": 2403,
+      "price_text": "TWD 2,403",
+      "rating": 8.4,
+      "address": "彰化, 員林市, 南和街51號",
+      "county": "彰化縣",
+      "city_id": 7811
+    },
+    {
+      "hotel_id": 2390702,
+      "name": "彰化員林麗禧飯店",
+      "price_twd": 4000,
+      "price_text": "TWD 4,000",
+      "rating": 9.1,
+      "address": "彰化, 員林市, 中山路二段395號",
+      "county": "彰化縣",
+      "city_id": 7811
+    },
+    {
+      "hotel_id": 2255018,
+      "name": "彰化麗景經典汽車旅館",
+      "price_twd": 4200,
+      "price_text": "TWD 4,200",
+      "rating": 7.2,
+      "address": "彰化, 鹿港鎮, 長安路58號",
+      "county": "彰化縣",
+      "city_id": 7811
+    },
+    {
+      "hotel_id": 4973547,
+      "name": "彰化心旅地圖青年旅館",
+      "price_twd": 2412,
+      "price_text": "TWD 2,412",
+      "rating": 8.2,
+      "address": "500, 彰化, 彰化市, 三民路230號2樓",
+      "county": "彰化縣",
+      "city_id": 7811
+    },
+    {
+      "hotel_id": 975097,
+      "name": "西站行旅",
+      "price_twd": 2274,
+      "price_text": "TWD 2,274",
+      "rating": 8.5,
+      "address": "545, 南投, 埔里鎮, 仁愛路41號",
+      "county": "南投縣",
+      "city_id": 7524
+    },
+    {
+      "hotel_id": 111574964,
+      "name": "福容徠旅水里",
+      "price_twd": 8000,
+      "price_text": "TWD 8,000",
+      "rating": 9.0,
+      "address": "南投, 水里鄉, 北埔村2鄰東三街51號",
+      "county": "南投縣",
+      "city_id": 7524
+    },
+    {
+      "hotel_id": 1011745,
+      "name": "力麗儷山林會館日月潭館",
+      "price_twd": 9360,
+      "price_text": "TWD 9,360",
+      "rating": 9.0,
+      "address": "南投, 魚池鄉, 日月村水秀街31號",
+      "county": "南投縣",
+      "city_id": 7524
+    },
+    {
+      "hotel_id": 3799102,
+      "name": "日月潭米洛克景觀飯店",
+      "price_twd": 103,
+      "price_text": "TWD 103",
+      "rating": 8.4,
+      "address": "555, 南投, 魚池鄉, 日月潭中正路5號",
+      "county": "南投縣",
+      "city_id": 7524
+    },
+    {
+      "hotel_id": 110069647,
+      "name": "歸璞泊旅",
+      "price_twd": 8280,
+      "price_text": "TWD 8,280",
+      "rating": 9.3,
+      "address": "555, 南投, 魚池鄉, 中山路 196 號",
+      "county": "南投縣",
+      "city_id": 7524
+    },
+    {
+      "hotel_id": 1068958,
+      "name": "日月潭映涵渡假飯店",
+      "price_twd": 5400,
+      "price_text": "TWD 5,400",
+      "rating": 8.6,
+      "address": "55546, 南投, 魚池鄉, 日月村文化街88號",
+      "county": "南投縣",
+      "city_id": 7524
+    },
+    {
+      "hotel_id": 1204511,
+      "name": "溪頭夏緹飯店",
+      "price_twd": 2599,
+      "price_text": "TWD 2,599",
+      "rating": 8.7,
+      "address": "55842, 南投, 鹿谷鄉, 內湖村興產路24-18號",
+      "county": "南投縣",
+      "city_id": 7524
+    },
+    {
+      "hotel_id": 1068799,
+      "name": "南投清境西雅圖璀璨雙城民宿",
+      "price_twd": 2200,
+      "price_text": "TWD 2,200",
+      "rating": 9.3,
+      "address": "546, 南投, 仁愛鄉, 大同村榮光巷39號",
+      "county": "南投縣",
+      "city_id": 7524
+    },
+    {
+      "hotel_id": 1848683,
+      "name": "日月潭湧泉民宿",
+      "price_twd": 2489,
+      "price_text": "TWD 2,489",
+      "rating": 9.5,
+      "address": "555, 南投, 魚池鄉, 日月村中正路242號",
+      "county": "南投縣",
+      "city_id": 7524
+    },
+    {
+      "hotel_id": 119726777,
+      "name": "北港朝聖行旅",
+      "price_twd": 3750,
+      "price_text": "TWD 3,750",
+      "rating": 9.0,
+      "address": "雲林, 北港鎮, 中山路142號6樓",
+      "county": "雲林縣",
+      "city_id": 7523
+    },
+    {
+      "hotel_id": 983277,
+      "name": "御品王朝旅店",
+      "price_twd": 4188,
+      "price_text": "TWD 4,188",
+      "rating": 8.6,
+      "address": "雲林, 斗南鎮, 建國一路288號",
+      "county": "雲林縣",
+      "city_id": 7523
+    },
+    {
+      "hotel_id": 17361343,
+      "name": "朝聖酒店",
+      "price_twd": null,
+      "price_text": null,
+      "rating": 8.9,
+      "address": "雲林, 北港鎮, 中山路146號4樓",
+      "county": "雲林縣",
+      "city_id": 7523
+    },
+    {
+      "hotel_id": 1006087,
+      "name": "劍湖山渡假大飯店",
+      "price_twd": 4471,
+      "price_text": "TWD 4,471",
+      "rating": 8.8,
+      "address": "雲林, 古坑鄉, 永光村大湖口67之8號",
+      "county": "雲林縣",
+      "city_id": 7523
+    },
+    {
+      "hotel_id": 6373380,
+      "name": "雲林觀月旅館",
+      "price_twd": 3899,
+      "price_text": "TWD 3,899",
+      "rating": 8.6,
+      "address": "雲林, 斗六市, 雲林路二段196號",
+      "county": "雲林縣",
+      "city_id": 7523
+    },
+    {
+      "hotel_id": 1964793,
+      "name": "雲林風華渡假旅館",
+      "price_twd": 8785,
+      "price_text": "TWD 8,785",
+      "rating": 8.6,
+      "address": "63251, 雲林, 虎尾鎮, 平和里平和20-15號",
+      "county": "雲林縣",
+      "city_id": 7523
+    },
+    {
+      "hotel_id": 24309747,
+      "name": "三好商務汽車旅館",
+      "price_twd": 1937,
+      "price_text": "TWD 1,937",
+      "rating": 7.3,
+      "address": "648, 雲林, 西螺鎮, 西螺鎮78之2號",
+      "county": "雲林縣",
+      "city_id": 7523
+    },
+    {
+      "hotel_id": 1048541,
+      "name": "享平方文旅",
+      "price_twd": 2100,
+      "price_text": "TWD 2,100",
+      "rating": 6.3,
+      "address": "64050, 雲林, 斗六市, 民生路170號5-7樓",
+      "county": "雲林縣",
+      "city_id": 7523
+    },
+    {
+      "hotel_id": 23154969,
+      "name": "朝天宮行旅",
+      "price_twd": 3636,
+      "price_text": "TWD 3,636",
+      "rating": 7.6,
+      "address": "雲林, 北港鎮, 中山路142號",
+      "county": "雲林縣",
+      "city_id": 7523
+    },
+    {
+      "hotel_id": 1232949,
+      "name": "嘉義永悅商務大飯店",
+      "price_twd": 2407,
+      "price_text": "TWD 2,407",
+      "rating": 8.5,
+      "address": "600, 嘉義市, 西區, 福民裡興業西路369號",
+      "county": "嘉義市",
+      "city_id": 5152
+    },
+    {
+      "hotel_id": 19832668,
+      "name": "新悦花園酒店",
+      "price_twd": 4302,
+      "price_text": "TWD 4,302",
+      "rating": 9.2,
+      "address": "600, 嘉義市, 東區, 保順路69號",
+      "county": "嘉義市",
+      "city_id": 5152
+    },
+    {
+      "hotel_id": 1856116,
+      "name": "嘉義觀止飯店",
+      "price_twd": 3903,
+      "price_text": "TWD 3,903",
+      "rating": 9.0,
+      "address": "60089, 嘉義市, 西區中興路467號",
+      "county": "嘉義市",
+      "city_id": 5152
+    },
+    {
+      "hotel_id": 1334555,
+      "name": "嘉義夏禾國際行館",
+      "price_twd": 1814,
+      "price_text": "TWD 1,814",
+      "rating": 8.2,
+      "address": "600, 嘉義市, 西區, 大華路50號",
+      "county": "嘉義市",
+      "city_id": 5152
+    },
+    {
+      "hotel_id": 1180826,
+      "name": "嘉義HOTEL HI垂楊店",
+      "price_twd": 3429,
+      "price_text": "TWD 3,429",
+      "rating": 8.3,
+      "address": "60043, 嘉義市, 西區垂楊路860號",
+      "county": "嘉義市",
+      "city_id": 5152
+    },
+    {
+      "hotel_id": 6444768,
+      "name": "嘉義里亞行旅",
+      "price_twd": 4527,
+      "price_text": "TWD 4,527",
+      "rating": 8.6,
+      "address": "60047, 嘉義市, 西區永和街100號",
+      "county": "嘉義市",
+      "city_id": 5152
+    },
+    {
+      "hotel_id": 2488973,
+      "name": "樂億皇家渡假酒店",
+      "price_twd": 3529,
+      "price_text": "TWD 3,529",
+      "rating": 8.9,
+      "address": "60090, 嘉義市, 西區, 西區玉山路501號",
+      "county": "嘉義市",
+      "city_id": 5152
+    },
+    {
+      "hotel_id": 14214848,
+      "name": "德爾芙快捷酒店",
+      "price_twd": 2600,
+      "price_text": "TWD 2,600",
+      "rating": 8.4,
+      "address": "600, 嘉義市, 西區, 仁愛路361號5樓",
+      "county": "嘉義市",
+      "city_id": 5152
+    },
+    {
+      "hotel_id": 1180948,
+      "name": "嘉義HOTEL HI新民店",
+      "price_twd": 4281,
+      "price_text": "TWD 4,281",
+      "rating": 8.9,
+      "address": "600, 嘉義市, 西區, 新民路784-1號",
+      "county": "嘉義市",
+      "city_id": 5152
+    },
+    {
+      "hotel_id": 1171696,
+      "name": "仁義湖岸大酒店",
+      "price_twd": 2993,
+      "price_text": "TWD 2,993",
+      "rating": 8.5,
+      "address": "602, 嘉義縣, 番路鄉, 內甕村後坑仔35號",
+      "county": "嘉義縣",
+      "city_id": 650358
+    },
+    {
+      "hotel_id": 54652128,
+      "name": "嘉義長榮文苑飯店",
+      "price_twd": 6271,
+      "price_text": "TWD 6,271",
+      "rating": 9.1,
+      "address": "612, 嘉義縣, 太保市, 故宮大道777號",
+      "county": "嘉義縣",
+      "city_id": 650358
+    },
+    {
+      "hotel_id": 1483764,
+      "name": "嘉義新天山茶葉民宿",
+      "price_twd": 3760,
+      "price_text": "TWD 3,760",
+      "rating": 8.7,
+      "address": "嘉義縣, 阿里山, 樂野村四鄰123-11號",
+      "county": "嘉義縣",
+      "city_id": 650358
+    },
+    {
+      "hotel_id": 5968215,
+      "name": "夢想家國際大飯店",
+      "price_twd": 17,
+      "price_text": "TWD 17",
+      "rating": 8.2,
+      "address": "625, 嘉義縣, 布袋鎮, 新北路22號",
+      "county": "嘉義縣",
+      "city_id": 650358
+    },
+    {
+      "hotel_id": 102340701,
+      "name": "阿里山英迪格飯店",
+      "price_twd": 17440,
+      "price_text": "TWD 17,440",
+      "rating": 9.0,
+      "address": "621, 嘉義縣, 番路鄉, 公田村龍頭20號",
+      "county": "嘉義縣",
+      "city_id": 650358
+    },
+    {
+      "hotel_id": 63411741,
+      "name": "棒棒積木飯店",
+      "price_twd": 5279,
+      "price_text": "TWD 5,279",
+      "rating": 8.7,
+      "address": "612, 嘉義縣, 太保市, 太子大道223號",
+      "county": "嘉義縣",
+      "city_id": 650358
+    },
+    {
+      "hotel_id": 1562669,
+      "name": "嘉義富野渡假酒店",
+      "price_twd": 6080,
+      "price_text": "TWD 6,080",
+      "rating": 7.9,
+      "address": "嘉義縣, 民雄鄉, 三興村7鄰升學一街11、13、15、17、19、21、23、25、27號",
+      "county": "嘉義縣",
+      "city_id": 650358
+    },
+    {
+      "hotel_id": 107860260,
+      "name": "春雨漫居",
+      "price_twd": 3351,
+      "price_text": "TWD 3,351",
+      "rating": 8.9,
+      "address": "603, 嘉義縣, 梅山鄉, 中華街79-2號",
+      "county": "嘉義縣",
+      "city_id": 650358
+    },
+    {
+      "hotel_id": 19832859,
+      "name": "阿里山月灣",
+      "price_twd": 2558,
+      "price_text": "TWD 2,558",
+      "rating": 8.0,
+      "address": "606, 嘉義縣, 檨仔林17-16號",
+      "county": "嘉義縣",
+      "city_id": 650358
+    },
+    {
+      "hotel_id": 963226,
+      "name": "立和商旅台南館",
+      "price_twd": 2550,
+      "price_text": "TWD 2,550",
+      "rating": 8.1,
+      "address": "700, 台南, 中西區, 忠義路二段145號8樓",
+      "county": "臺南市",
+      "city_id": 3847
+    },
+    {
+      "hotel_id": 130886614,
+      "name": "帕鉑文旅",
+      "price_twd": 4693,
+      "price_text": "TWD 4,693",
+      "rating": 9.1,
+      "address": "700, 台南, 中西區, 700台南市中西區民族路二段143號",
+      "county": "臺南市",
+      "city_id": 3847
+    },
+    {
+      "hotel_id": 19832416,
+      "name": "星鑽國際商旅",
+      "price_twd": 4592,
+      "price_text": "TWD 4,592",
+      "rating": 8.5,
+      "address": "700, 台南, 中西區, 金華路三段218號",
+      "county": "臺南市",
+      "city_id": 3847
+    },
+    {
+      "hotel_id": 1585195,
+      "name": "康橋商旅（台南民生館）",
+      "price_twd": 4700,
+      "price_text": "TWD 4,700",
+      "rating": 9.2,
+      "address": "70054, 台南, 中西區, 民生路二段299號",
+      "county": "臺南市",
+      "city_id": 3847
+    },
+    {
+      "hotel_id": 85396096,
+      "name": "台南安平雅樂軒飯店",
+      "price_twd": 52,
+      "price_text": "TWD 52",
+      "rating": 9.4,
+      "address": "台南, 安平區, 光州路108號",
+      "county": "臺南市",
+      "city_id": 3847
+    },
+    {
+      "hotel_id": 124729954,
+      "name": "路境行旅 台南西門館",
+      "price_twd": 3778,
+      "price_text": "TWD 3,778",
+      "rating": 8.8,
+      "address": "700005, 台南, 中西區, 西門路二段76號",
+      "county": "臺南市",
+      "city_id": 3847
+    },
+    {
+      "hotel_id": 96211436,
+      "name": "森行旅",
+      "price_twd": 3595,
+      "price_text": "TWD 3,595",
+      "rating": 9.2,
+      "address": "708, 台南, 安平區, 安北路98號",
+      "county": "臺南市",
+      "city_id": 3847
+    },
+    {
+      "hotel_id": 50841956,
+      "name": "Hotel A 聖禾大飯店",
+      "price_twd": 4115,
+      "price_text": "TWD 4,115",
+      "rating": 8.9,
+      "address": "70041, 台南, 中西區, 西門路二段23號",
+      "county": "臺南市",
+      "city_id": 3847
+    },
+    {
+      "hotel_id": 1200145,
+      "name": "台南劍橋大飯店-台南店",
+      "price_twd": 3306,
+      "price_text": "TWD 3,306",
+      "rating": 8.8,
+      "address": "700, 台南, 中西區, 民族路二段271號",
+      "county": "臺南市",
+      "city_id": 3847
+    },
+    {
+      "hotel_id": 5025009,
+      "name": "城市商旅（高雄駁二館）",
+      "price_twd": 6100,
+      "price_text": "TWD 6,100",
+      "rating": 8.8,
+      "address": "80343, 高雄, 鹽埕區, 公園二路83號",
+      "county": "高雄市",
+      "city_id": 720
+    },
+    {
+      "hotel_id": 804393,
+      "name": "高雄國際星辰旅館",
+      "price_twd": 2293,
+      "price_text": "TWD 2,293",
+      "rating": 8.6,
+      "address": "高雄, 三民區, 建國三路252-1號",
+      "county": "高雄市",
+      "city_id": 720
+    },
+    {
+      "hotel_id": 1380059,
+      "name": "高雄陽光大飯店",
+      "price_twd": 22,
+      "price_text": "TWD 22",
+      "rating": 8.6,
+      "address": "高雄, 苓雅區, 中華四路75號",
+      "county": "高雄市",
+      "city_id": 720
+    },
+    {
+      "hotel_id": 1066362,
+      "name": "鮪魚家族飯店-高雄館",
+      "price_twd": 4455,
+      "price_text": "TWD 4,455",
+      "rating": 8.7,
+      "address": "800, 高雄, 新興區, 八德二路10號",
+      "county": "高雄市",
+      "city_id": 720
+    },
+    {
+      "hotel_id": 1436422,
+      "name": "承攜行旅-高雄新崛江館",
+      "price_twd": 7816,
+      "price_text": "TWD 7,816",
+      "rating": 8.2,
+      "address": "高雄, 新興區, 五福二路198號",
+      "county": "高雄市",
+      "city_id": 720
+    },
+    {
+      "hotel_id": 1194099,
+      "name": "高雄信宗大飯店",
+      "price_twd": 2800,
+      "price_text": "TWD 2,800",
+      "rating": 8.6,
+      "address": "高雄, 三民區, 建國三路487號",
+      "county": "高雄市",
+      "city_id": 720
+    },
+    {
+      "hotel_id": 967425,
+      "name": "樹屋旅店",
+      "price_twd": 1751,
+      "price_text": "TWD 1,751",
+      "rating": 8.3,
+      "address": "80104, 高雄, 前金區, 六合二路132號3樓",
+      "county": "高雄市",
+      "city_id": 720
+    },
+    {
+      "hotel_id": 994637,
+      "name": "康橋商旅 高雄站前館",
+      "price_twd": null,
+      "price_text": null,
+      "rating": 9.3,
+      "address": "807, 高雄, 三民區, 建國二路295號",
+      "county": "高雄市",
+      "city_id": 720
+    },
+    {
+      "hotel_id": 992053,
+      "name": "福容大飯店高雄店",
+      "price_twd": 6208,
+      "price_text": "TWD 6,208",
+      "rating": 8.7,
+      "address": "80344, 高雄, 鹽埕區, 五福四路45號",
+      "county": "高雄市",
+      "city_id": 720
+    },
+    {
+      "hotel_id": 1194088,
+      "name": "河堤墾丁渡假飯店",
+      "price_twd": 2090,
+      "price_text": "TWD 2,090",
+      "rating": 9.2,
+      "address": "946, 屏東, 恆春, 網紗裡恆公路1180號",
+      "county": "屏東縣",
+      "city_id": 5589
+    },
+    {
+      "hotel_id": 6951878,
+      "name": "承攜行旅-墾丁渡假飯店",
+      "price_twd": 2514,
+      "price_text": "TWD 2,514",
+      "rating": 8.5,
+      "address": "屏東, 恆春, 恆南路117巷18號1-6樓",
+      "county": "屏東縣",
+      "city_id": 5589
+    },
+    {
+      "hotel_id": 752701,
+      "name": "墾丁凱撒大飯店",
+      "price_twd": 12000,
+      "price_text": "TWD 12,000",
+      "rating": 9.4,
+      "address": "屏東, 恆春, 墾丁路6號",
+      "county": "屏東縣",
+      "city_id": 5589
+    },
+    {
+      "hotel_id": 7690620,
+      "name": "墾丁怡灣渡假酒店",
+      "price_twd": 37,
+      "price_text": "TWD 37",
+      "rating": 9.1,
+      "address": "94643, 屏東, 恆春, 恆公路998號",
+      "county": "屏東縣",
+      "city_id": 5589
+    },
+    {
+      "hotel_id": 971229,
+      "name": "墾丁海岸旅店",
+      "price_twd": 3400,
+      "price_text": "TWD 3,400",
+      "rating": 8.9,
+      "address": "屏東, 恆春, 大灣路152號",
+      "county": "屏東縣",
+      "city_id": 5589
+    },
+    {
+      "hotel_id": 125209702,
+      "name": "35.5旅店",
+      "price_twd": 2133,
+      "price_text": "TWD 2,133",
+      "rating": 8.9,
+      "address": "屏東, 恆春, 墾丁路36號",
+      "county": "屏東縣",
+      "city_id": 5589
+    },
+    {
+      "hotel_id": 918165,
+      "name": "屏東墾丁艾比莎渡假旅店1館",
+      "price_twd": 1900,
+      "price_text": "TWD 1,900",
+      "rating": 8.7,
+      "address": "946, 屏東, 恆春, 墾丁裡大灣路138號",
+      "county": "屏東縣",
+      "city_id": 5589
+    },
+    {
+      "hotel_id": 1204972,
+      "name": "屏東墾丁聖都VILLA",
+      "price_twd": 7000,
+      "price_text": "TWD 7,000",
+      "rating": 9.1,
+      "address": "屏東, 恆春, 四溝裡興北路興東巷32號",
+      "county": "屏東縣",
+      "city_id": 5589
+    },
+    {
+      "hotel_id": 123667344,
+      "name": "墾丁卿卿文旅",
+      "price_twd": 1472,
+      "price_text": "TWD 1,472",
+      "rating": 9.5,
+      "address": "946, 屏東, 恆春, 墾丁里墾丁路314號",
+      "county": "屏東縣",
+      "city_id": 5589
+    },
+    {
+      "hotel_id": 112492737,
+      "name": "米淇旅店羅東館",
+      "price_twd": 1650,
+      "price_text": "TWD 1,650",
+      "rating": 8.5,
+      "address": "265, 宜蘭, 羅東鎮, 中正北路42號4~5樓",
+      "county": "宜蘭縣",
+      "city_id": 7614
+    },
+    {
+      "hotel_id": 72815059,
+      "name": "天使星夢渡假村",
+      "price_twd": 8330,
+      "price_text": "TWD 8,330",
+      "rating": 9.4,
+      "address": "宜蘭, 冬山鄉, 境安二路323號",
+      "county": "宜蘭縣",
+      "city_id": 7614
+    },
+    {
+      "hotel_id": 19831744,
+      "name": "雀客旅館 宜蘭羅東",
+      "price_twd": 3014,
+      "price_text": "TWD 3,014",
+      "rating": 8.5,
+      "address": "265, 宜蘭, 林森路68號3樓",
+      "county": "宜蘭縣",
+      "city_id": 7614
+    },
+    {
+      "hotel_id": 11475172,
+      "name": "雀客嗨夫旅館",
+      "price_twd": 4300,
+      "price_text": "TWD 4,300",
+      "rating": 9.1,
+      "address": "26550, 宜蘭, 羅東鎮, 公正路38號",
+      "county": "宜蘭縣",
+      "city_id": 7614
+    },
+    {
+      "hotel_id": 35597305,
+      "name": "品文旅礁溪",
+      "price_twd": 11416,
+      "price_text": "TWD 11,416",
+      "rating": 9.2,
+      "address": "268, 宜蘭, 礁溪鄉, 健康二街21巷2號",
+      "county": "宜蘭縣",
+      "city_id": 7614
+    },
+    {
+      "hotel_id": 1255556,
+      "name": "宜蘭五結香格里拉冬山河渡假飯店",
+      "price_twd": 5411,
+      "price_text": "TWD 5,411",
+      "rating": 8.6,
+      "address": "268, 宜蘭, 五結鄉, 公園二路15號",
+      "county": "宜蘭縣",
+      "city_id": 7614
+    },
+    {
+      "hotel_id": 1135995,
+      "name": "宜蘭玖屋文旅",
+      "price_twd": 5980,
+      "price_text": "TWD 5,980",
+      "rating": 8.6,
+      "address": "265, 宜蘭, 羅東鎮, 公正路511號",
+      "county": "宜蘭縣",
+      "city_id": 7614
+    },
+    {
+      "hotel_id": 2469512,
+      "name": "宜蘭多愛溫泉會館",
+      "price_twd": 6268,
+      "price_text": "TWD 6,268",
+      "rating": 8.5,
+      "address": "宜蘭, 礁溪鄉, 礁溪鄉信義路34巷2號",
+      "county": "宜蘭縣",
+      "city_id": 7614
+    },
+    {
+      "hotel_id": 19831730,
+      "name": "羅東夢行館",
+      "price_twd": 21,
+      "price_text": "TWD 21",
+      "rating": 9.1,
+      "address": "265, 宜蘭, 羅東鎮, 西安街171號",
+      "county": "宜蘭縣",
+      "city_id": 7614
+    },
+    {
+      "hotel_id": 2592721,
+      "name": "洄瀾窩青年旅舍",
+      "price_twd": 1394,
+      "price_text": "TWD 1,394",
+      "rating": 9.4,
+      "address": "97055, 花蓮, 花蓮市, 國聯一路83號",
+      "county": "花蓮縣",
+      "city_id": 6954
+    },
+    {
+      "hotel_id": 1580904,
+      "name": "康橋商旅-花蓮站前館",
+      "price_twd": 3111,
+      "price_text": "TWD 3,111",
+      "rating": 9.7,
+      "address": "花蓮, 花蓮市, 國聯五路101號",
+      "county": "花蓮縣",
+      "city_id": 6954
+    },
+    {
+      "hotel_id": 801388,
+      "name": "美侖大飯店",
+      "price_twd": 3500,
+      "price_text": "TWD 3,500",
+      "rating": 9.2,
+      "address": "970, 花蓮, 花蓮市, 林園1-1號",
+      "county": "花蓮縣",
+      "city_id": 6954
+    },
+    {
+      "hotel_id": 975470,
+      "name": "花蓮香城大飯店",
+      "price_twd": 1765,
+      "price_text": "TWD 1,765",
+      "rating": 9.2,
+      "address": "970, 花蓮, 花蓮市, 國興二街19號",
+      "county": "花蓮縣",
+      "city_id": 6954
+    },
+    {
+      "hotel_id": 929475,
+      "name": "花蓮吉安檜木居民宿",
+      "price_twd": 3500,
+      "price_text": "TWD 3,500",
+      "rating": 8.9,
+      "address": "花蓮, 吉安鄉, 慈惠一街58號",
+      "county": "花蓮縣",
+      "city_id": 6954
+    },
+    {
+      "hotel_id": 5500815,
+      "name": "花蓮布洛灣大飯店",
+      "price_twd": 986,
+      "price_text": "TWD 986",
+      "rating": 8.7,
+      "address": "花蓮, 花蓮市, 中福路189號",
+      "county": "花蓮縣",
+      "city_id": 6954
+    },
+    {
+      "hotel_id": 2387299,
+      "name": "花蓮假期飯店",
+      "price_twd": 3800,
+      "price_text": "TWD 3,800",
+      "rating": 9.5,
+      "address": "花蓮, 花蓮市, 中華路231號",
+      "county": "花蓮縣",
+      "city_id": 6954
+    },
+    {
+      "hotel_id": 1109645,
+      "name": "勤天大飯店-花蓮館",
+      "price_twd": 3500,
+      "price_text": "TWD 3,500",
+      "rating": 9.1,
+      "address": "970, 花蓮, 花蓮市, 國聯五路151號",
+      "county": "花蓮縣",
+      "city_id": 6954
+    },
+    {
+      "hotel_id": 1233126,
+      "name": "亞馨文旅 | 自助入住 | 免費車位",
+      "price_twd": 2111,
+      "price_text": "TWD 2,111",
+      "rating": 9.2,
+      "address": "970, 花蓮, 花蓮市, 主學裡中正路336巷1弄1號",
+      "county": "花蓮縣",
+      "city_id": 6954
+    },
+    {
+      "hotel_id": 45833517,
+      "name": "旅人驛站鐵花文創二館",
+      "price_twd": 2235,
+      "price_text": "TWD 2,235",
+      "rating": 8.6,
+      "address": "950, 台東, 台東市, 鐵花路 296 號",
+      "county": "臺東縣",
+      "city_id": 3848
+    },
+    {
+      "hotel_id": 61135115,
+      "name": "如意行館",
+      "price_twd": 2200,
+      "price_text": "TWD 2,200",
+      "rating": 8.0,
+      "address": "950025, 台東, 台東市, 中華路二段761巷5號",
+      "county": "臺東縣",
+      "city_id": 3848
+    },
+    {
+      "hotel_id": 1204408,
+      "name": "台東旅行家商務會館",
+      "price_twd": 1280,
+      "price_text": "TWD 1,280",
+      "rating": 8.9,
+      "address": "950, 台東, 台東市, 中山裡安慶街42號",
+      "county": "臺東縣",
+      "city_id": 3848
+    },
+    {
+      "hotel_id": 7591713,
+      "name": "THE GAYA HOTEL 潮渡假酒店",
+      "price_twd": 6800,
+      "price_text": "TWD 6,800",
+      "rating": 9.3,
+      "address": "950, 台東, 台東市, 新生路169號",
+      "county": "臺東縣",
+      "city_id": 3848
+    },
+    {
+      "hotel_id": 1462840,
+      "name": "台東中華典藏商旅",
+      "price_twd": 2700,
+      "price_text": "TWD 2,700",
+      "rating": 9.0,
+      "address": "950, 台東, 台東市, 中華路一段420號",
+      "county": "臺東縣",
+      "city_id": 3848
+    },
+    {
+      "hotel_id": 8414491,
+      "name": "旅人驛站-鐵花文創館",
+      "price_twd": 2235,
+      "price_text": "TWD 2,235",
+      "rating": 8.7,
+      "address": "950, 台東, 台東市, 中山路402號",
+      "county": "臺東縣",
+      "city_id": 3848
+    },
+    {
+      "hotel_id": 6485165,
+      "name": "台東娜路彎銀河行館",
+      "price_twd": 3700,
+      "price_text": "TWD 3,700",
+      "rating": 8.6,
+      "address": "950, 台東, 台東市, 豐興路88號",
+      "county": "臺東縣",
+      "city_id": 3848
+    },
+    {
+      "hotel_id": 1137395,
+      "name": "台東娜路彎花園酒店",
+      "price_twd": 4600,
+      "price_text": "TWD 4,600",
+      "rating": 8.9,
+      "address": "950, 台東, 台東市, 新興路77號",
+      "county": "臺東縣",
+      "city_id": 3848
+    },
+    {
+      "hotel_id": 2615633,
+      "name": "知本芙儷渡假酒店",
+      "price_twd": 4293,
+      "price_text": "TWD 4,293",
+      "rating": 9.2,
+      "address": "95094, 台東, 台東市, 大順路33號",
+      "county": "臺東縣",
+      "city_id": 3848
+    },
+    {
+      "hotel_id": 19549487,
+      "name": "澎湖彩虹文旅",
+      "price_twd": 3152,
+      "price_text": "TWD 3,152",
+      "rating": 9.2,
+      "address": "澎湖, 馬公市, 民族路58之1號二樓",
+      "county": "澎湖縣",
+      "city_id": 7805
+    },
+    {
+      "hotel_id": 804585,
+      "name": "澎湖和田飯店",
+      "price_twd": 2400,
+      "price_text": "TWD 2,400",
+      "rating": 9.0,
+      "address": "880, 澎湖, 馬公市, 民權路2號",
+      "county": "澎湖縣",
+      "city_id": 7805
+    },
+    {
+      "hotel_id": 131307683,
+      "name": "福容徠旅 澎湖",
+      "price_twd": 7111,
+      "price_text": "TWD 7,111",
+      "rating": 10.0,
+      "address": "澎湖, 馬公市, 大賢街99號",
+      "county": "澎湖縣",
+      "city_id": 7805
+    },
+    {
+      "hotel_id": 1057845,
+      "name": "澎湖長春大飯店",
+      "price_twd": 2651,
+      "price_text": "TWD 2,651",
+      "rating": 8.8,
+      "address": "880, 澎湖, 馬公市, 中正路6號",
+      "county": "澎湖縣",
+      "city_id": 7805
+    },
+    {
+      "hotel_id": 1017562,
+      "name": "澎湖海洋渡假村",
+      "price_twd": 2100,
+      "price_text": "TWD 2,100",
+      "rating": 8.9,
+      "address": "澎湖, 馬公市, 臨海3號",
+      "county": "澎湖縣",
+      "city_id": 7805
+    },
+    {
+      "hotel_id": 983701,
+      "name": "澎湖綠的旅店",
+      "price_twd": 2661,
+      "price_text": "TWD 2,661",
+      "rating": 9.3,
+      "address": "澎湖, 馬公市, 文光路27-3號",
+      "county": "澎湖縣",
+      "city_id": 7805
+    },
+    {
+      "hotel_id": 1013953,
+      "name": "安一大飯店",
+      "price_twd": 1443,
+      "price_text": "TWD 1,443",
+      "rating": 8.8,
+      "address": "88043, 澎湖, 馬公市, 忠孝路105號",
+      "county": "澎湖縣",
+      "city_id": 7805
+    },
+    {
+      "hotel_id": 45833832,
+      "name": "澎湖海悅飯店",
+      "price_twd": 2311,
+      "price_text": "TWD 2,311",
+      "rating": 9.2,
+      "address": "880, 澎湖, 馬公市, 民福路 75 號",
+      "county": "澎湖縣",
+      "city_id": 7805
+    },
+    {
+      "hotel_id": 127002735,
+      "name": "西里海岸民宿",
+      "price_twd": 3331,
+      "price_text": "TWD 3,331",
+      "rating": 9.4,
+      "address": "澎湖, 馬公市, 三多路390巷22之1號",
+      "county": "澎湖縣",
+      "city_id": 7805
+    },
+    {
+      "hotel_id": 125371602,
+      "name": "茱碧樓",
+      "price_twd": 2180,
+      "price_text": "TWD 2,180",
+      "rating": 9.3,
+      "address": "金門, 金城鎮, 金門縣金城鎮珠山1之6號",
+      "county": "金門縣",
+      "city_id": 7203
+    },
+    {
+      "hotel_id": 102623165,
+      "name": "浯島文旅",
+      "price_twd": 2070,
+      "price_text": "TWD 2,070",
+      "rating": 9.2,
+      "address": "891, 金門, 金湖鎮, 漁村20號",
+      "county": "金門縣",
+      "city_id": 7203
+    }
+  ],
+  "skipped": []
+}
