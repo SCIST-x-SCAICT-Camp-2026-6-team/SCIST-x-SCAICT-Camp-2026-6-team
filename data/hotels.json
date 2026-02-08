@@ -1,0 +1,1072 @@
+{
+  "total_cities_scraped": 10,
+  "total_hotels": 117,
+  "results": [
+    {
+      "county": "新北市",
+      "city_id": 7662,
+      "query_url": "https://tw.trip.com/hotels/list?city=7662&searchWord=%E6%96%B0%E5%8C%97",
+      "count": 12,
+      "items": [
+        {
+          "hotel_id": 7007885,
+          "name": "熊旅溫泉飯店",
+          "price_twd": 2529,
+          "price_text": "TWD 2,529",
+          "rating": 9.1,
+          "address": "237, 新北, 三峽區, 大德路213號"
+        },
+        {
+          "hotel_id": 26618164,
+          "name": "君迪商旅",
+          "price_twd": 3050,
+          "price_text": "TWD 3,050",
+          "rating": 8.6,
+          "address": "新北, 中和區, 和城路一段232號"
+        },
+        {
+          "hotel_id": 97074863,
+          "name": "汐止福泰大飯店",
+          "price_twd": 3684,
+          "price_text": "TWD 3,684",
+          "rating": 9.1,
+          "address": "221, 新北, 汐止區, 大同路一段128號"
+        },
+        {
+          "hotel_id": 105245629,
+          "name": "淡水島宇居飯店",
+          "price_twd": 2471,
+          "price_text": "TWD 2,471",
+          "rating": 8.5,
+          "address": "新北, 淡水, 中正東路一段3巷1號"
+        },
+        {
+          "hotel_id": 1009307,
+          "name": "新北淡水福格大飯店",
+          "price_twd": 2867,
+          "price_text": "TWD 2,867",
+          "rating": 8.2,
+          "address": "251, 新北, 淡水, 學府路89號"
+        },
+        {
+          "hotel_id": 21928385,
+          "name": "美麗殿商旅",
+          "price_twd": 6930,
+          "price_text": "TWD 6,930",
+          "rating": 8.7,
+          "address": "新北, 板橋區, 府中路67號2樓"
+        },
+        {
+          "hotel_id": 5911399,
+          "name": "台北富信大飯店",
+          "price_twd": 2867,
+          "price_text": "TWD 2,867",
+          "rating": 8.6,
+          "address": "221, 新北, 汐止區, 大同路一段152號"
+        },
+        {
+          "hotel_id": 1061503,
+          "name": "馥都飯店",
+          "price_twd": 5400,
+          "price_text": "TWD 5,400",
+          "rating": 9.1,
+          "address": "新北, 板橋區, 縣民大道一段189號"
+        },
+        {
+          "hotel_id": 985148,
+          "name": "福容大飯店（台北二館）",
+          "price_twd": 3100,
+          "price_text": "TWD 3,100",
+          "rating": 8.4,
+          "address": "新北, 深坑區, 北深路三段236號"
+        },
+        {
+          "hotel_id": 115583156,
+          "name": "柜富旅店",
+          "price_twd": 3580,
+          "price_text": "TWD 3,580",
+          "rating": 8.4,
+          "address": "241, 新北, 三重區, 正義北路6-1號10樓"
+        },
+        {
+          "hotel_id": 85396366,
+          "name": "旅居文旅-板橋車站館",
+          "price_twd": 3880,
+          "price_text": "TWD 3,880",
+          "rating": 8.6,
+          "address": "新北, 板橋區, 公園街16號"
+        },
+        {
+          "hotel_id": 878687,
+          "name": "瓏山林台北中和飯店",
+          "price_twd": 2948,
+          "price_text": "TWD 2,948",
+          "rating": 8.9,
+          "address": "新北, 中和區, 中正路631號"
+        }
+      ]
+    },
+    {
+      "county": "臺北市",
+      "city_id": 617,
+      "query_url": "https://tw.trip.com/hotels/list?city=617&searchWord=%E5%8F%B0%E5%8C%97",
+      "count": 12,
+      "items": [
+        {
+          "hotel_id": 1284026,
+          "name": "丹迪旅店-大安森林公園店",
+          "price_twd": 7200,
+          "price_text": "TWD 7,200",
+          "rating": 9.3,
+          "address": "106, 台北, 大安區, 信義路三段33號"
+        },
+        {
+          "hotel_id": 701066,
+          "name": "茹曦酒店 ILLUME TAIPEI",
+          "price_twd": 6005,
+          "price_text": "TWD 6,005",
+          "rating": 8.7,
+          "address": "105, 台北, 松山區, 敦化北路100號"
+        },
+        {
+          "hotel_id": 701812,
+          "name": "城市商旅（台北南東館）",
+          "price_twd": 5413,
+          "price_text": "TWD 5,413",
+          "rating": 8.6,
+          "address": "10569, 台北, 松山區, 南京東路5段411號"
+        },
+        {
+          "hotel_id": 1212365,
+          "name": "首都大飯店松山館",
+          "price_twd": 4370,
+          "price_text": "TWD 4,370",
+          "rating": 8.4,
+          "address": "105, 台北, 松山區, 八德路四段658號"
+        },
+        {
+          "hotel_id": 701355,
+          "name": "台北怡亨飯店",
+          "price_twd": 6553,
+          "price_text": "TWD 6,553",
+          "rating": 8.3,
+          "address": "106, 台北, 大安區, 敦化南路一段370號"
+        },
+        {
+          "hotel_id": 700897,
+          "name": "台北福華大飯店",
+          "price_twd": 6650,
+          "price_text": "TWD 6,650",
+          "rating": 8.9,
+          "address": "10657, 台北, 大安區, 仁愛路三段160號"
+        },
+        {
+          "hotel_id": 1413143,
+          "name": "台北世聯商旅",
+          "price_twd": 2880,
+          "price_text": "TWD 2,880",
+          "rating": 8.6,
+          "address": "台北, 中山區, 松江路90巷5號1至7樓"
+        },
+        {
+          "hotel_id": 67237892,
+          "name": "天閣酒店台北士林館",
+          "price_twd": 14000,
+          "price_text": "TWD 14,000",
+          "rating": 8.8,
+          "address": "111013, 台北, 士林區, 基河路16-8號"
+        },
+        {
+          "hotel_id": 80624975,
+          "name": "雀客藏居台北南港",
+          "price_twd": 2928,
+          "price_text": "TWD 2,928",
+          "rating": 8.1,
+          "address": "115, 台北, 南港區, 重陽路59號"
+        },
+        {
+          "hotel_id": 1829145,
+          "name": "德立莊酒店",
+          "price_twd": 6120,
+          "price_text": "TWD 6,120",
+          "rating": 8.1,
+          "address": "108, 台北, 中正區, 秀山街4號"
+        },
+        {
+          "hotel_id": 701746,
+          "name": "台北天成大飯店",
+          "price_twd": 8386,
+          "price_text": "TWD 8,386",
+          "rating": 8.8,
+          "address": "100, 台北, 中正區, 忠孝西路一段43號"
+        },
+        {
+          "hotel_id": 608222,
+          "name": "城市商旅（台北南西館）",
+          "price_twd": 5762,
+          "price_text": "TWD 5,762",
+          "rating": 8.8,
+          "address": "10349, 台北, 大同區, 南京西路169號"
+        }
+      ]
+    },
+    {
+      "county": "桃園市",
+      "city_id": 7570,
+      "query_url": "https://tw.trip.com/hotels/list?city=7570&searchWord=%E6%A1%83%E5%9C%92",
+      "count": 12,
+      "items": [
+        {
+          "hotel_id": 1011727,
+          "name": "福容大飯店桃園",
+          "price_twd": 3911,
+          "price_text": "TWD 3,911",
+          "rating": 8.7,
+          "address": "桃園, 桃園區, 大興西路一段200號"
+        },
+        {
+          "hotel_id": 132201693,
+          "name": "丰居中壢",
+          "price_twd": 4475,
+          "price_text": "TWD 4,475",
+          "rating": 8.8,
+          "address": "320, 桃園, 中壢區, 新興路194巷5號"
+        },
+        {
+          "hotel_id": 982190,
+          "name": "桃園尊爵大飯店",
+          "price_twd": 4400,
+          "price_text": "TWD 4,400",
+          "rating": 8.4,
+          "address": "330008, 桃園, 桃園區, 莊敬路一段300號"
+        },
+        {
+          "hotel_id": 19831982,
+          "name": "六星旅館桃園館",
+          "price_twd": 4415,
+          "price_text": "TWD 4,415",
+          "rating": 8.7,
+          "address": "330, 桃園, 桃園區, 桃園區經國路721號"
+        },
+        {
+          "hotel_id": 971456,
+          "name": "城市商旅（桃園航空館）",
+          "price_twd": 3965,
+          "price_text": "TWD 3,965",
+          "rating": 8.5,
+          "address": "33745, 桃園, 大園區, 中正東路442號"
+        },
+        {
+          "hotel_id": 45833283,
+          "name": "城市商旅桃園車站館",
+          "price_twd": 4769,
+          "price_text": "TWD 4,769",
+          "rating": 8.5,
+          "address": "33041, 桃園, 桃園區, 中正路 60 號 6-7 樓"
+        },
+        {
+          "hotel_id": 1071287,
+          "name": "薇緹文旅",
+          "price_twd": 3080,
+          "price_text": "TWD 3,080",
+          "rating": 8.0,
+          "address": "330, 桃園, 桃園區, 中正路703號"
+        },
+        {
+          "hotel_id": 45835133,
+          "name": "嘉仕特飯店",
+          "price_twd": 2480,
+          "price_text": "TWD 2,480",
+          "rating": 8.1,
+          "address": "330, 桃園, 桃園區, 中山路 203 號, 桃園區"
+        },
+        {
+          "hotel_id": 4614105,
+          "name": "福容大飯店桃園機場捷運A8",
+          "price_twd": 5630,
+          "price_text": "TWD 5,630",
+          "rating": 9.2,
+          "address": "33380, 桃園, 龜山區, 復興一路2號"
+        },
+        {
+          "hotel_id": 1431744,
+          "name": "桃園富立登國際大飯店",
+          "price_twd": 3723,
+          "price_text": "TWD 3,723",
+          "rating": 9.1,
+          "address": "33861, 桃園, 蘆竹區, 長榮路55號"
+        },
+        {
+          "hotel_id": 6129115,
+          "name": "桃園大溪笠復威斯汀度假酒店",
+          "price_twd": 120,
+          "price_text": "TWD 120",
+          "rating": 9.3,
+          "address": "335, 桃園, 大溪區, 日新路166號"
+        },
+        {
+          "hotel_id": 5227173,
+          "name": "綺樂文旅桃園館",
+          "price_twd": 2508,
+          "price_text": "TWD 2,508",
+          "rating": 8.7,
+          "address": "桃園, 桃園區, 復興路95號"
+        }
+      ]
+    },
+    {
+      "county": "臺中市",
+      "city_id": 3849,
+      "query_url": "https://tw.trip.com/hotels/list?city=3849&searchWord=%E5%8F%B0%E4%B8%AD",
+      "count": 12,
+      "items": [
+        {
+          "hotel_id": 1004901,
+          "name": "豪爵大飯店台中館",
+          "price_twd": 1318,
+          "price_text": "TWD 1,318",
+          "rating": 8.3,
+          "address": "台中, 西區, 五權路1-23號"
+        },
+        {
+          "hotel_id": 45833993,
+          "name": "一中宿喜",
+          "price_twd": 1117,
+          "price_text": "TWD 1,117",
+          "rating": 8.8,
+          "address": "400, 台中, 三民路 2 段 149 巷 8-1 號 3 樓, 中區"
+        },
+        {
+          "hotel_id": 114384805,
+          "name": "台中沫秋立柳川行旅",
+          "price_twd": 2400,
+          "price_text": "TWD 2,400",
+          "rating": 8.7,
+          "address": "台中, 中區, 柳川西路3段22號"
+        },
+        {
+          "hotel_id": 54109344,
+          "name": "台中逢甲金瑞文旅",
+          "price_twd": 4500,
+          "price_text": "TWD 4,500",
+          "rating": 8.6,
+          "address": "台中, 西屯區, 福星路247號"
+        },
+        {
+          "hotel_id": 59888014,
+          "name": "嬉行旅",
+          "price_twd": 4685,
+          "price_text": "TWD 4,685",
+          "rating": 9.0,
+          "address": "403, 台中, 西區, 民權路225巷8號"
+        },
+        {
+          "hotel_id": 801113,
+          "name": "台中永豐棧酒店",
+          "price_twd": 7032,
+          "price_text": "TWD 7,032",
+          "rating": 8.1,
+          "address": "407, 台中, 西屯區, 西屯區台灣大道二段689號"
+        },
+        {
+          "hotel_id": 128056103,
+          "name": "長弘時尚旅店-台中文心館",
+          "price_twd": 2700,
+          "price_text": "TWD 2,700",
+          "rating": 9.0,
+          "address": "台中, 西屯區, 文心路三段362號"
+        },
+        {
+          "hotel_id": 1196722,
+          "name": "台中雙星大飯店",
+          "price_twd": 1499,
+          "price_text": "TWD 1,499",
+          "rating": 8.6,
+          "address": "40144, 台中, 東區, 復興路4段158號"
+        },
+        {
+          "hotel_id": 7237286,
+          "name": "台中草悟道文旅",
+          "price_twd": 3143,
+          "price_text": "TWD 3,143",
+          "rating": 8.4,
+          "address": "台中, 西區, 英才路512號"
+        },
+        {
+          "hotel_id": 1014582,
+          "name": "臺中西悠飯店",
+          "price_twd": 2460,
+          "price_text": "TWD 2,460",
+          "rating": 8.2,
+          "address": "404, 台中, 北區, 進化北路431號"
+        },
+        {
+          "hotel_id": 1582165,
+          "name": "Hotel 7 福星旅店",
+          "price_twd": 4999,
+          "price_text": "TWD 4,999",
+          "rating": 8.9,
+          "address": "台中, 西屯區, 福星北路45號"
+        },
+        {
+          "hotel_id": 115600900,
+          "name": "凝萃文旅台中車站店",
+          "price_twd": 1500,
+          "price_text": "TWD 1,500",
+          "rating": 8.1,
+          "address": "台中, 中區, 綠川西街135號4樓之1之2"
+        }
+      ]
+    },
+    {
+      "county": "南投縣",
+      "city_id": 7524,
+      "query_url": "https://tw.trip.com/hotels/list?city=7524&searchWord=%E5%8D%97%E6%8A%95",
+      "count": 12,
+      "items": [
+        {
+          "hotel_id": 982557,
+          "name": "南投日月潭瑞居渡假飯店",
+          "price_twd": 3528,
+          "price_text": "TWD 3,528",
+          "rating": 8.4,
+          "address": "南投, 魚池鄉, 大雁村大雁巷47-9號"
+        },
+        {
+          "hotel_id": 111574964,
+          "name": "福容徠旅水里",
+          "price_twd": 8000,
+          "price_text": "TWD 8,000",
+          "rating": 9.0,
+          "address": "南投, 水里鄉, 北埔村2鄰東三街51號"
+        },
+        {
+          "hotel_id": 1011745,
+          "name": "力麗儷山林會館日月潭館",
+          "price_twd": 9360,
+          "price_text": "TWD 9,360",
+          "rating": 9.0,
+          "address": "南投, 魚池鄉, 日月村水秀街31號"
+        },
+        {
+          "hotel_id": 3799102,
+          "name": "日月潭米洛克景觀飯店",
+          "price_twd": 103,
+          "price_text": "TWD 103",
+          "rating": 8.4,
+          "address": "555, 南投, 魚池鄉, 日月潭中正路5號"
+        },
+        {
+          "hotel_id": 1068958,
+          "name": "日月潭映涵渡假飯店",
+          "price_twd": 5400,
+          "price_text": "TWD 5,400",
+          "rating": 8.6,
+          "address": "55546, 南投, 魚池鄉, 日月村文化街88號"
+        },
+        {
+          "hotel_id": 110069647,
+          "name": "歸璞泊旅",
+          "price_twd": 8280,
+          "price_text": "TWD 8,280",
+          "rating": 9.3,
+          "address": "555, 南投, 魚池鄉, 中山路 196 號"
+        },
+        {
+          "hotel_id": 1068639,
+          "name": "清境空中花園",
+          "price_twd": 3885,
+          "price_text": "TWD 3,885",
+          "rating": 9.2,
+          "address": "546, 南投, 仁愛鄉, 榮光巷8號"
+        },
+        {
+          "hotel_id": 1848683,
+          "name": "日月潭湧泉民宿",
+          "price_twd": 2489,
+          "price_text": "TWD 2,489",
+          "rating": 9.5,
+          "address": "555, 南投, 魚池鄉, 日月村中正路242號"
+        },
+        {
+          "hotel_id": 1204511,
+          "name": "溪頭夏緹飯店",
+          "price_twd": 2599,
+          "price_text": "TWD 2,599",
+          "rating": 8.7,
+          "address": "55842, 南投, 鹿谷鄉, 內湖村興產路24-18號"
+        },
+        {
+          "hotel_id": 1068799,
+          "name": "南投清境西雅圖璀璨雙城民宿",
+          "price_twd": 2200,
+          "price_text": "TWD 2,200",
+          "rating": 9.3,
+          "address": "546, 南投, 仁愛鄉, 大同村榮光巷39號"
+        },
+        {
+          "hotel_id": 128670958,
+          "name": "水里河堤咖啡民宿",
+          "price_twd": 2300,
+          "price_text": "TWD 2,300",
+          "rating": 10.0,
+          "address": "南投, 水里鄉, 南投縣水里鄉東三街110號"
+        },
+        {
+          "hotel_id": 1871688,
+          "name": "冠月精品旅館",
+          "price_twd": 4623,
+          "price_text": "TWD 4,623",
+          "rating": 9.2,
+          "address": "54541, 南投, 埔里鎮, 信義路319號"
+        }
+      ]
+    },
+    {
+      "county": "嘉義市",
+      "city_id": 5152,
+      "query_url": "https://tw.trip.com/hotels/list?city=5152&searchWord=%E5%98%89%E7%BE%A9",
+      "count": 10,
+      "items": [
+        {
+          "hotel_id": 4356631,
+          "name": "嘉義樂客商旅",
+          "price_twd": 2380,
+          "price_text": "TWD 2,380",
+          "rating": 8.7,
+          "address": "600, 嘉義市, 東區, 林森西路155號"
+        },
+        {
+          "hotel_id": 1232949,
+          "name": "嘉義永悅商務大飯店",
+          "price_twd": 2407,
+          "price_text": "TWD 2,407",
+          "rating": 8.5,
+          "address": "600, 嘉義市, 西區, 福民裡興業西路369號"
+        },
+        {
+          "hotel_id": 1856116,
+          "name": "嘉義觀止飯店",
+          "price_twd": 3903,
+          "price_text": "TWD 3,903",
+          "rating": 9.0,
+          "address": "60089, 嘉義市, 西區中興路467號"
+        },
+        {
+          "hotel_id": 1334555,
+          "name": "嘉義夏禾國際行館",
+          "price_twd": 1814,
+          "price_text": "TWD 1,814",
+          "rating": 8.2,
+          "address": "600, 嘉義市, 西區, 大華路50號"
+        },
+        {
+          "hotel_id": 1180826,
+          "name": "嘉義HOTEL HI垂楊店",
+          "price_twd": 3429,
+          "price_text": "TWD 3,429",
+          "rating": 8.3,
+          "address": "60043, 嘉義市, 西區垂楊路860號"
+        },
+        {
+          "hotel_id": 19832668,
+          "name": "新悦花園酒店",
+          "price_twd": 4302,
+          "price_text": "TWD 4,302",
+          "rating": 9.2,
+          "address": "600, 嘉義市, 東區, 保順路69號"
+        },
+        {
+          "hotel_id": 6444768,
+          "name": "嘉義里亞行旅",
+          "price_twd": 4527,
+          "price_text": "TWD 4,527",
+          "rating": 8.6,
+          "address": "60047, 嘉義市, 西區永和街100號"
+        },
+        {
+          "hotel_id": 2488973,
+          "name": "樂億皇家渡假酒店",
+          "price_twd": 3529,
+          "price_text": "TWD 3,529",
+          "rating": 8.9,
+          "address": "60090, 嘉義市, 西區, 西區玉山路501號"
+        },
+        {
+          "hotel_id": 14214848,
+          "name": "德爾芙快捷酒店",
+          "price_twd": 2600,
+          "price_text": "TWD 2,600",
+          "rating": 8.4,
+          "address": "600, 嘉義市, 西區, 仁愛路361號5樓"
+        },
+        {
+          "hotel_id": 1180948,
+          "name": "嘉義HOTEL HI新民店",
+          "price_twd": 4281,
+          "price_text": "TWD 4,281",
+          "rating": 8.9,
+          "address": "600, 嘉義市, 西區, 新民路784-1號"
+        }
+      ]
+    },
+    {
+      "county": "臺南市",
+      "city_id": 3847,
+      "query_url": "https://tw.trip.com/hotels/list?city=3847&searchWord=%E5%8F%B0%E5%8D%97",
+      "count": 12,
+      "items": [
+        {
+          "hotel_id": 126948884,
+          "name": "唯爾文旅 - 台南 New Velle Voyage Hotel",
+          "price_twd": 2200,
+          "price_text": "TWD 2,200",
+          "rating": 8.6,
+          "address": "台南, 中西區, 民生路二段169号"
+        },
+        {
+          "hotel_id": 963226,
+          "name": "立和商旅台南館",
+          "price_twd": 2547,
+          "price_text": "TWD 2,547",
+          "rating": 8.1,
+          "address": "700, 台南, 中西區, 忠義路二段145號8樓"
+        },
+        {
+          "hotel_id": 130886614,
+          "name": "帕鉑文旅",
+          "price_twd": 4693,
+          "price_text": "TWD 4,693",
+          "rating": 9.1,
+          "address": "700, 台南, 中西區, 700台南市中西區民族路二段143號"
+        },
+        {
+          "hotel_id": 19832416,
+          "name": "星鑽國際商旅",
+          "price_twd": 4592,
+          "price_text": "TWD 4,592",
+          "rating": 8.5,
+          "address": "700, 台南, 中西區, 金華路三段218號"
+        },
+        {
+          "hotel_id": 1585195,
+          "name": "康橋商旅（台南民生館）",
+          "price_twd": 4700,
+          "price_text": "TWD 4,700",
+          "rating": 9.2,
+          "address": "70054, 台南, 中西區, 民生路二段299號"
+        },
+        {
+          "hotel_id": 85396096,
+          "name": "台南安平雅樂軒飯店",
+          "price_twd": 52,
+          "price_text": "TWD 52",
+          "rating": 9.4,
+          "address": "台南, 安平區, 光州路108號"
+        },
+        {
+          "hotel_id": 1796446,
+          "name": "塔木德飯店Classic 台南台南館",
+          "price_twd": 4886,
+          "price_text": "TWD 4,886",
+          "rating": 8.8,
+          "address": "701, 台南, 東區, 裕學路90號"
+        },
+        {
+          "hotel_id": 124729954,
+          "name": "路境行旅 台南西門館",
+          "price_twd": 3778,
+          "price_text": "TWD 3,778",
+          "rating": 8.8,
+          "address": "700005, 台南, 中西區, 西門路二段76號"
+        },
+        {
+          "hotel_id": 96211436,
+          "name": "森行旅",
+          "price_twd": 3595,
+          "price_text": "TWD 3,595",
+          "rating": 9.2,
+          "address": "708, 台南, 安平區, 安北路98號"
+        },
+        {
+          "hotel_id": 50841956,
+          "name": "Hotel A 聖禾大飯店",
+          "price_twd": 4115,
+          "price_text": "TWD 4,115",
+          "rating": 8.9,
+          "address": "70041, 台南, 中西區, 西門路二段23號"
+        },
+        {
+          "hotel_id": 132967651,
+          "name": "浮生半盞",
+          "price_twd": 9412,
+          "price_text": "TWD 9,412",
+          "rating": 10.0,
+          "address": "台南, 中西區, 700台湾臺南市中西區忠義路二段38巷14號"
+        },
+        {
+          "hotel_id": 1200145,
+          "name": "台南劍橋大飯店-台南店",
+          "price_twd": 3306,
+          "price_text": "TWD 3,306",
+          "rating": 8.8,
+          "address": "700, 台南, 中西區, 民族路二段271號"
+        }
+      ]
+    },
+    {
+      "county": "高雄市",
+      "city_id": 720,
+      "query_url": "https://tw.trip.com/hotels/list?city=720&searchWord=%E9%AB%98%E9%9B%84",
+      "count": 11,
+      "items": [
+        {
+          "hotel_id": 6485010,
+          "name": "德立莊（高雄博愛館）",
+          "price_twd": 7000,
+          "price_text": "TWD 7,000",
+          "rating": 8.8,
+          "address": "高雄, 三民區, 博愛一路338號"
+        },
+        {
+          "hotel_id": 5025009,
+          "name": "城市商旅（高雄駁二館）",
+          "price_twd": 6100,
+          "price_text": "TWD 6,100",
+          "rating": 8.8,
+          "address": "80343, 高雄, 鹽埕區, 公園二路83號"
+        },
+        {
+          "hotel_id": 804393,
+          "name": "高雄國際星辰旅館",
+          "price_twd": 2293,
+          "price_text": "TWD 2,293",
+          "rating": 8.6,
+          "address": "高雄, 三民區, 建國三路252-1號"
+        },
+        {
+          "hotel_id": 1066362,
+          "name": "鮪魚家族飯店-高雄館",
+          "price_twd": 4455,
+          "price_text": "TWD 4,455",
+          "rating": 8.7,
+          "address": "800, 高雄, 新興區, 八德二路10號"
+        },
+        {
+          "hotel_id": 1380059,
+          "name": "高雄陽光大飯店",
+          "price_twd": 22,
+          "price_text": "TWD 22",
+          "rating": 8.6,
+          "address": "高雄, 苓雅區, 中華四路75號"
+        },
+        {
+          "hotel_id": 1436422,
+          "name": "承攜行旅-高雄新崛江館",
+          "price_twd": 7816,
+          "price_text": "TWD 7,816",
+          "rating": 8.2,
+          "address": "高雄, 新興區, 五福二路198號"
+        },
+        {
+          "hotel_id": 967425,
+          "name": "樹屋旅店",
+          "price_twd": 1751,
+          "price_text": "TWD 1,751",
+          "rating": 8.3,
+          "address": "80104, 高雄, 前金區, 六合二路132號3樓"
+        },
+        {
+          "hotel_id": 1194099,
+          "name": "高雄信宗大飯店",
+          "price_twd": 2800,
+          "price_text": "TWD 2,800",
+          "rating": 8.6,
+          "address": "高雄, 三民區, 建國三路487號"
+        },
+        {
+          "hotel_id": 994637,
+          "name": "康橋商旅 高雄站前館",
+          "price_twd": null,
+          "price_text": null,
+          "rating": 9.3,
+          "address": "807, 高雄, 三民區, 建國二路295號"
+        },
+        {
+          "hotel_id": 1213975,
+          "name": "高雄富驛時尚飯店",
+          "price_twd": 2422,
+          "price_text": "TWD 2,422",
+          "rating": 8.6,
+          "address": "高雄, 前金區, 中華三路81號"
+        },
+        {
+          "hotel_id": 1577598,
+          "name": "高雄四季精品旅館",
+          "price_twd": 2299,
+          "price_text": "TWD 2,299",
+          "rating": 8.5,
+          "address": "高雄, 鼓山區, 裕誠路1789號"
+        }
+      ]
+    },
+    {
+      "county": "宜蘭縣",
+      "city_id": 7614,
+      "query_url": "https://tw.trip.com/hotels/list?city=7614&searchWord=%E5%AE%9C%E8%98%AD",
+      "count": 12,
+      "items": [
+        {
+          "hotel_id": 112492737,
+          "name": "米淇旅店羅東館",
+          "price_twd": 1650,
+          "price_text": "TWD 1,650",
+          "rating": 8.5,
+          "address": "265, 宜蘭, 羅東鎮, 中正北路42號4~5樓"
+        },
+        {
+          "hotel_id": 72815059,
+          "name": "天使星夢渡假村",
+          "price_twd": 8330,
+          "price_text": "TWD 8,330",
+          "rating": 9.4,
+          "address": "宜蘭, 冬山鄉, 境安二路323號"
+        },
+        {
+          "hotel_id": 11475172,
+          "name": "雀客嗨夫旅館",
+          "price_twd": 4300,
+          "price_text": "TWD 4,300",
+          "rating": 9.1,
+          "address": "26550, 宜蘭, 羅東鎮, 公正路38號"
+        },
+        {
+          "hotel_id": 9882363,
+          "name": "礁溪麒麟飯店",
+          "price_twd": 9369,
+          "price_text": "TWD 9,369",
+          "rating": 8.9,
+          "address": "26243, 宜蘭, 礁溪鄉, 礁溪路五段116號"
+        },
+        {
+          "hotel_id": 19830463,
+          "name": "山水聽風",
+          "price_twd": 2932,
+          "price_text": "TWD 2,932",
+          "rating": 9.0,
+          "address": "26444, 宜蘭, 員山鄉, 宜蘭縣員山鄉水源一路56之5 號"
+        },
+        {
+          "hotel_id": 35597305,
+          "name": "品文旅礁溪",
+          "price_twd": 11416,
+          "price_text": "TWD 11,416",
+          "rating": 9.2,
+          "address": "268, 宜蘭, 礁溪鄉, 健康二街21巷2號"
+        },
+        {
+          "hotel_id": 19831744,
+          "name": "雀客旅館 宜蘭羅東",
+          "price_twd": 3014,
+          "price_text": "TWD 3,014",
+          "rating": 8.5,
+          "address": "265, 宜蘭, 林森路68號3樓"
+        },
+        {
+          "hotel_id": 117835703,
+          "name": "宜蘭偶浴礁溪溫泉旅店",
+          "price_twd": 3600,
+          "price_text": "TWD 3,600",
+          "rating": 9.2,
+          "address": "宜蘭, 礁溪鄉, 仁愛路27號"
+        },
+        {
+          "hotel_id": 1255556,
+          "name": "宜蘭五結香格里拉冬山河渡假飯店",
+          "price_twd": 5411,
+          "price_text": "TWD 5,411",
+          "rating": 8.6,
+          "address": "268, 宜蘭, 五結鄉, 公園二路15號"
+        },
+        {
+          "hotel_id": 2469512,
+          "name": "宜蘭多愛溫泉會館",
+          "price_twd": 6268,
+          "price_text": "TWD 6,268",
+          "rating": 8.5,
+          "address": "宜蘭, 礁溪鄉, 礁溪鄉信義路34巷2號"
+        },
+        {
+          "hotel_id": 133410659,
+          "name": "天河行旅",
+          "price_twd": 1141,
+          "price_text": "TWD 1,141",
+          "rating": 10.0,
+          "address": "宜蘭, 羅東鎮, 公正路517號B1F"
+        },
+        {
+          "hotel_id": 1135995,
+          "name": "宜蘭玖屋文旅",
+          "price_twd": 5980,
+          "price_text": "TWD 5,980",
+          "rating": 8.6,
+          "address": "265, 宜蘭, 羅東鎮, 公正路511號"
+        }
+      ]
+    },
+    {
+      "county": "臺東縣",
+      "city_id": 3848,
+      "query_url": "https://tw.trip.com/hotels/list?city=3848&searchWord=%E5%8F%B0%E6%9D%B1",
+      "count": 12,
+      "items": [
+        {
+          "hotel_id": 1009352,
+          "name": "鮪魚家族飯店-台東館",
+          "price_twd": 2222,
+          "price_text": "TWD 2,222",
+          "rating": 9.2,
+          "address": "台東, 台東市, 中華路一段537號"
+        },
+        {
+          "hotel_id": 45833517,
+          "name": "旅人驛站鐵花文創二館",
+          "price_twd": 2235,
+          "price_text": "TWD 2,235",
+          "rating": 8.6,
+          "address": "950, 台東, 台東市, 鐵花路 296 號"
+        },
+        {
+          "hotel_id": 61135115,
+          "name": "如意行館",
+          "price_twd": 2200,
+          "price_text": "TWD 2,200",
+          "rating": 8.0,
+          "address": "950025, 台東, 台東市, 中華路二段761巷5號"
+        },
+        {
+          "hotel_id": 1204408,
+          "name": "台東旅行家商務會館",
+          "price_twd": 1280,
+          "price_text": "TWD 1,280",
+          "rating": 8.9,
+          "address": "950, 台東, 台東市, 中山裡安慶街42號"
+        },
+        {
+          "hotel_id": 8414491,
+          "name": "旅人驛站-鐵花文創館",
+          "price_twd": 2235,
+          "price_text": "TWD 2,235",
+          "rating": 8.7,
+          "address": "950, 台東, 台東市, 中山路402號"
+        },
+        {
+          "hotel_id": 1462840,
+          "name": "台東中華典藏商旅",
+          "price_twd": 2700,
+          "price_text": "TWD 2,700",
+          "rating": 9.0,
+          "address": "950, 台東, 台東市, 中華路一段420號"
+        },
+        {
+          "hotel_id": 1137395,
+          "name": "台東娜路彎花園酒店",
+          "price_twd": 4600,
+          "price_text": "TWD 4,600",
+          "rating": 8.9,
+          "address": "950, 台東, 台東市, 新興路77號"
+        },
+        {
+          "hotel_id": 6485165,
+          "name": "台東娜路彎銀河行館",
+          "price_twd": 3700,
+          "price_text": "TWD 3,700",
+          "rating": 8.6,
+          "address": "950, 台東, 台東市, 豐興路88號"
+        },
+        {
+          "hotel_id": 19732126,
+          "name": "台東凱旋會館",
+          "price_twd": 1795,
+          "price_text": "TWD 1,795",
+          "rating": 8.3,
+          "address": "950, 台東, 台東市, 中山路362號"
+        },
+        {
+          "hotel_id": 1204635,
+          "name": "富野溫泉休閒會館",
+          "price_twd": 5500,
+          "price_text": "TWD 5,500",
+          "rating": 8.6,
+          "address": "95484, 台東, 卑南鄉, 溫泉村龍泉路16號"
+        },
+        {
+          "hotel_id": 123424915,
+          "name": "東吉悠民宿",
+          "price_twd": 2000,
+          "price_text": "TWD 2,000",
+          "rating": 10.0,
+          "address": "950, 台東, 台東市, 正氣路280巷13號"
+        },
+        {
+          "hotel_id": 2615633,
+          "name": "知本芙儷渡假酒店",
+          "price_twd": 4293,
+          "price_text": "TWD 4,293",
+          "rating": 9.2,
+          "address": "95094, 台東, 台東市, 大順路33號"
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "county": "基隆市",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "新竹市",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "新竹縣",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "苗栗縣",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "彰化縣",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "雲林縣",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "嘉義縣",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "屏東縣",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "花蓮縣",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "澎湖縣",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "金門縣",
+      "reason": "city_id_not_configured"
+    },
+    {
+      "county": "連江縣",
+      "reason": "city_id_not_configured"
+    }
+  ]
+}
